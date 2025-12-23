@@ -1,0 +1,49 @@
+yoshimi_spr.png
+	size: 2048, 2048
+	filter: Linear, Linear
+00_defalt
+	bounds: 749, 785, 175, 165
+	offsets: 10, 10, 195, 185
+01_nomal
+	bounds: 1850, 1034, 196, 200
+02_repond
+	bounds: 180, 762, 176, 188
+	offsets: 10, 10, 196, 208
+03_smile
+	bounds: 1647, 814, 159, 152
+	offsets: 10, 10, 179, 172
+04_embarrass
+	bounds: 1886, 1247, 174, 160
+	offsets: 10, 10, 194, 180
+	rotate: 90
+05_serious
+	bounds: 2, 759, 176, 191
+	offsets: 10, 10, 196, 211
+06_shout
+	bounds: 1468, 775, 177, 193
+	offsets: 10, 10, 197, 213
+07
+	bounds: 1811, 841, 203, 191
+	offsets: 10, 10, 223, 211
+08
+	bounds: 2, 1650, 199, 197
+	offsets: 10, 10, 219, 217
+09
+	bounds: 2, 1849, 199, 197
+	offsets: 10, 10, 219, 217
+10
+	bounds: 2, 1491, 159, 157
+	offsets: 10, 10, 179, 177
+eyeclose
+	bounds: 579, 770, 168, 180
+	offsets: 10, 10, 188, 200
+halo
+	bounds: 996, 680, 470, 475
+object_fronthair
+	bounds: 358, 762, 219, 188
+yoshimi
+	bounds: 929, 967, 1076, 1079
+	offsets: 2, 1092, 1174, 2171
+yoshimi_1
+	bounds: 2, 951, 1098, 1095
+	offsets: 74, 0, 1174, 2171
