@@ -1,286 +1,127 @@
-
 saori_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
 00_default
-  rotate: false
-  xy: 488, 214
-  size: 91, 63
-  orig: 91, 63
-  offset: 0, 0
-  index: -1
+bounds:1706,471,202,141
+offsets:10,10,222,161
 01_normal
-  rotate: false
-  xy: 2, 215
-  size: 91, 63
-  orig: 91, 63
-  offset: 0, 0
-  index: -1
+bounds:1493,1375,216,160
+offsets:6,0,222,160
+rotate:90
 02_respond
-  rotate: false
-  xy: 298, 210
-  size: 91, 62
-  orig: 91, 62
-  offset: 0, 0
-  index: -1
+bounds:206,205,202,138
+offsets:10,10,222,158
 03_smile 1
-  rotate: true
-  xy: 957, 400
-  size: 91, 62
-  orig: 91, 62
-  offset: 0, 0
-  index: -1
+bounds:1522,330,202,139
+offsets:10,10,222,159
 04_embarassed
-  rotate: false
-  xy: 485, 151
-  size: 91, 61
-  orig: 91, 61
-  offset: 0, 0
-  index: -1
-08_serious
-  rotate: false
-  xy: 391, 151
-  size: 91, 61
-  orig: 91, 61
-  offset: 0, 0
-  index: -1
-09_depressed
-  rotate: false
-  xy: 655, 150
-  size: 91, 60
-  orig: 91, 60
-  offset: 0, 0
-  index: -1
-10_fury 2
-  rotate: false
-  xy: 330, 803
-  size: 94, 71
-  orig: 94, 71
-  offset: 0, 0
-  index: -1
-10_irritated
-  rotate: false
-  xy: 392, 213
-  size: 91, 63
-  orig: 91, 63
-  offset: 0, 0
-  index: -1
-11_shout
-  rotate: false
-  xy: 905, 564
-  size: 91, 71
-  orig: 91, 71
-  offset: 0, 0
-  index: -1
-12_fury
-  rotate: false
-  xy: 930, 636
-  size: 91, 72
-  orig: 91, 72
-  offset: 0, 0
-  index: -1
-13_smile 2
-  rotate: false
-  xy: 299, 275
-  size: 91, 65
-  orig: 91, 65
-  offset: 0, 0
-  index: -1
-14_smile 3
-  rotate: false
-  xy: 204, 212
-  size: 93, 61
-  orig: 93, 61
-  offset: 0, 0
-  index: -1
-15_pain
-  rotate: false
-  xy: 928, 494
-  size: 94, 68
-  orig: 94, 68
-  offset: 0, 0
-  index: -1
-15_shy
-  rotate: false
-  xy: 94, 210
-  size: 91, 62
-  orig: 91, 62
-  offset: 0, 0
-  index: -1
-16_depressed_2
-  rotate: false
-  xy: 204, 275
-  size: 93, 63
-  orig: 93, 63
-  offset: 0, 0
-  index: -1
-16_hesitate
-  rotate: false
-  xy: 931, 153
-  size: 91, 62
-  orig: 91, 62
-  offset: 0, 0
-  index: -1
-17_depressed_3
-  rotate: false
-  xy: 840, 151
-  size: 89, 63
-  orig: 89, 63
-  offset: 0, 0
-  index: -1
-18_depressed_4
-  rotate: false
-  xy: 2, 150
-  size: 89, 63
-  orig: 89, 63
-  offset: 0, 0
-  index: -1
-19_shout 2
-  rotate: false
-  xy: 669, 878
-  size: 94, 68
-  orig: 94, 68
-  offset: 0, 0
-  index: -1
-20_shout 3
-  rotate: false
-  xy: 2, 869
-  size: 95, 71
-  orig: 95, 71
-  offset: 0, 0
-  index: -1
-21_panic
-  rotate: false
-  xy: 488, 279
-  size: 94, 63
-  orig: 94, 63
-  offset: 0, 0
-  index: -1
-22_serious 2
-  rotate: false
-  xy: 2, 279
-  size: 94, 63
-  orig: 94, 63
-  offset: 0, 0
-  index: -1
-23_tears 1
-  rotate: false
-  xy: 109, 274
-  size: 93, 63
-  orig: 93, 63
-  offset: 0, 0
-  index: -1
-24_tears 2
-  rotate: false
-  xy: 93, 947
-  size: 93, 76
-  orig: 93, 76
-  offset: 0, 0
-  index: -1
-25_tears 3
-  rotate: false
-  xy: 600, 947
-  size: 89, 76
-  orig: 89, 76
-  offset: 0, 0
-  index: -1
-26_tears 4
-  rotate: false
-  xy: 2, 942
-  size: 90, 80
-  orig: 90, 80
-  offset: 0, 0
-  index: -1
-27_tears 5
-  rotate: false
-  xy: 392, 278
-  size: 94, 63
-  orig: 94, 63
-  offset: 0, 0
-  index: -1
+bounds:1467,192,202,136
+offsets:10,10,222,156
+05_serious
+bounds:1726,196,202,136
+offsets:10,10,222,156
+06_depressed
+bounds:1912,1620,202,134
+offsets:10,10,222,154
+rotate:90
+07
+bounds:2,343,202,139
+offsets:10,10,222,159
+08
+bounds:1736,925,202,156
+offsets:10,10,222,176
+09
+bounds:1214,1797,204,159
+offsets:10,10,224,179
+10
+bounds:1625,770,204,153
+offsets:10,10,224,173
+11
+bounds:2,484,202,144
+offsets:10,10,222,164
+12
+bounds:1726,334,207,135
+offsets:10,10,227,155
+13
+bounds:1497,482,207,138
+offsets:10,10,227,158
+14
+bounds:1196,1614,207,138
+offsets:10,10,227,158
+15
+bounds:1527,622,202,146
+offsets:10,10,222,166
+16
+bounds:263,787,201,133
+offsets:10,10,221,153
+rotate:90
+17
+bounds:2,730,192,133
+offsets:10,10,212,153
+rotate:90
+18
+bounds:2,66,192,133
+offsets:10,10,212,153
+19
+bounds:1731,614,202,145
+offsets:10,10,222,165
+20
+bounds:201,630,204,152
+offsets:10,10,224,172
+21
+bounds:1413,55,202,135
+offsets:10,10,222,155
+22
+bounds:1671,59,202,135
+offsets:10,10,222,155
+23
+bounds:1913,1314,201,133
+offsets:10,10,221,153
+rotate:90
+24
+bounds:1845,1083,201,162
+offsets:10,10,221,182
+25
+bounds:1831,761,192,162
+offsets:10,10,212,182
+26
+bounds:687,1784,193,172
+offsets:10,10,213,192
+27
+bounds:200,68,202,135
+offsets:10,10,222,155
 28
-  rotate: false
-  xy: 748, 149
-  size: 89, 62
-  orig: 89, 62
-  offset: 0, 0
-  index: -1
+bounds:1875,2,192,132
+offsets:10,10,212,152
+rotate:90
 eyeclose
-  rotate: false
-  xy: 187, 147
-  size: 88, 63
-  orig: 88, 63
-  offset: 0, 0
-  index: -1
-flush
-  rotate: false
-  xy: 830, 658
-  size: 92, 44
-  orig: 92, 44
-  offset: 0, 0
-  index: -1
+bounds:2,201,196,140
+offsets:10,10,216,160
 fronthair
-  rotate: false
-  xy: 802, 704
-  size: 178, 183
-  orig: 178, 183
-  offset: 0, 0
-  index: -1
+bounds:1035,1440,345,169
+offsets:7,92,357,269
 halo_1
-  rotate: false
-  xy: 318, 875
-  size: 146, 148
-  orig: 146, 148
-  offset: 0, 0
-  index: -1
+bounds:920,1606,343,350
+offsets:3,0,346,350
 halo_2
-  rotate: false
-  xy: 765, 856
-  size: 194, 166
-  orig: 194, 166
-  offset: 0, 0
-  index: -1
+bounds:1549,1505,451,390
+rotate:270
 mask
-  rotate: false
-  xy: 277, 148
-  size: 87, 61
-  orig: 87, 61
-  offset: 0, 0
-  index: -1
-mask_0
-  rotate: false
-  xy: 277, 148
-  size: 87, 61
-  orig: 87, 61
-  offset: 0, 0
-  index: -1
-saori_001
-  rotate: 180
-  xy: 580, 211
-  size: 443, 505
-  orig: 762, 1159
-  offset: 82, 654
-  index: -1
-saori_002
-  rotate: false
-  xy: 2, 337
-  size: 762, 686
-  orig: 762, 1159
-  offset: 0, 0
-  index: -1
-sweat
-  rotate: false
-  xy: 193, 1018
-  size: 3, 5
-  orig: 3, 5
-  offset: 0, 0
-  index: -1
+bounds:1212,4,200,150
+offsets:1,0,214,155
+saori
+bounds:2,504,1047,1452
+offsets:132,1139,1707,2591
+saoriC
+bounds:2,763,314,820
+offsets:4,465,1707,2591
+saoriC2
+bounds:934,499,973,1457
+offsets:657,21,1707,2591
+saoriC3
+bounds:233,45,590,1288
+offsets:240,0,1707,2591
+rotate:270
 sweat 2
-  rotate: false
-  xy: 188, 1017
-  size: 3, 5
-  orig: 3, 5
-  offset: 0, 0
-  index: -1
+bounds:2,1945,6,11
+offsets:10,10,26,31
