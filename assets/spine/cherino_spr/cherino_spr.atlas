@@ -1,139 +1,45 @@
-
 cherino_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 670, 278
-  size: 104, 82
-  orig: 104, 82
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
+scale:1.05
 00_default
-  rotate: false
-  xy: 670, 278
-  size: 104, 82
-  orig: 104, 82
-  offset: 0, 0
-  index: -1
+bounds:1679,862,218,172
+01_normal
+bounds:1679,862,218,172
 30_default
-  rotate: false
-  xy: 670, 278
-  size: 104, 82
-  orig: 104, 82
-  offset: 0, 0
-  index: -1
+bounds:1679,862,218,172
 31_normal
-  rotate: false
-  xy: 670, 278
-  size: 104, 82
-  orig: 104, 82
-  offset: 0, 0
-  index: -1
-02_respond
-  rotate: false
-  xy: 721, 750
-  size: 104, 73
-  orig: 104, 73
-  offset: 0, 0
-  index: -1
-03_smile
-  rotate: false
-  xy: 752, 524
-  size: 100, 63
-  orig: 100, 63
-  offset: 0, 0
-  index: -1
-04_embrrassed
-  rotate: false
-  xy: 2, 434
-  size: 124, 90
-  orig: 124, 90
-  offset: 0, 0
-  index: -1
-05_serious
-  rotate: false
-  xy: 729, 444
-  size: 97, 78
-  orig: 97, 78
-  offset: 0, 0
-  index: -1
-06_depressed
-  rotate: false
-  xy: 537, 915
-  size: 124, 90
-  orig: 124, 90
-  offset: 0, 0
-  index: -1
-300_eyeclose
-  rotate: false
-  xy: 2, 527
-  size: 101, 82
-  orig: 101, 82
-  offset: 0, 0
-  index: -1
+bounds:1679,862,218,172
 00_eyeclose
-  rotate: false
-  xy: 2, 527
-  size: 101, 82
-  orig: 101, 82
-  offset: 0, 0
-  index: -1
+bounds:2,786,211,172
+300_eyeclose
+bounds:2,786,211,172
+02_respond
+bounds:1679,707,218,153
+03_smile
+bounds:1431,719,210,132
+04_embrrassed
+bounds:1089,1797,260,189
+05_serious
+bounds:1351,1652,204,164
+06_depressed
+bounds:273,1797,260,189
+07
+bounds:2,960,218,187
 32_respond
-  rotate: false
-  xy: 663, 916
-  size: 104, 89
-  orig: 104, 89
-  offset: 0, 0
-  index: -1
+bounds:1620,1036,218,187
 33_smile
-  rotate: false
-  xy: 2, 180
-  size: 100, 86
-  orig: 100, 86
-  offset: 0, 0
-  index: -1
+bounds:1467,853,210,181
 34_embrassed
-  rotate: false
-  xy: 647, 825
-  size: 124, 89
-  orig: 124, 89
-  offset: 0, 0
-  index: -1
+bounds:1620,1225,260,186
 35_serious
-  rotate: false
-  xy: 700, 362
-  size: 97, 80
-  orig: 97, 80
-  offset: 0, 0
-  index: -1
+bounds:1351,1818,204,168
 36_depressed
-  rotate: false
-  xy: 97, 913
-  size: 128, 92
-  orig: 128, 92
-  offset: 0, 0
-  index: -1
+bounds:2,1793,269,193
 cherino
-  rotate: false
-  xy: 2, 62
-  size: 770, 944
-  orig: 770, 945
-  offset: 0, 1
-  index: -1
+bounds:2,2,1617,1984
 halo
-  rotate: true
-  xy: 640, 3
-  size: 273, 220
-  orig: 273, 220
-  offset: 0, 0
-  index: -1
+bounds:1563,1413,573,462
+rotate:90
 ss
-  rotate: false
-  xy: 2, 983
-  size: 41, 23
-  orig: 41, 23
-  offset: 0, 0
-  index: -1
+bounds:535,1939,85,47
