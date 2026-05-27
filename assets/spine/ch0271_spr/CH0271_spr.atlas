@@ -1,188 +1,55 @@
-
 CH0271_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 01_normal
-  rotate: false
-  xy: 2, 863
-  size: 141, 105
-  orig: 141, 105
-  offset: 0, 0
-  index: -1
+bounds:1751,1258,295,220
 02_respond
-  rotate: false
-  xy: 762, 87
-  size: 129, 93
-  orig: 141, 105
-  offset: 6, 6
-  index: -1
-respond
-  rotate: false
-  xy: 762, 87
-  size: 129, 93
-  orig: 141, 105
-  offset: 6, 6
-  index: -1
+bounds:1306,44,269,194
+offsets:13,13,295,220
 03_smile
-  rotate: false
-  xy: 852, 875
-  size: 151, 92
-  orig: 163, 104
-  offset: 6, 6
-  index: -1
-smile
-  rotate: false
-  xy: 852, 875
-  size: 151, 92
-  orig: 163, 104
-  offset: 6, 6
-  index: -1
-04_embarassed
-  rotate: false
-  xy: 609, 100
-  size: 151, 80
-  orig: 163, 92
-  offset: 6, 6
-  index: -1
+bounds:2,1559,316,192
+offsets:13,12,342,217
 04_embarrassed
-  rotate: false
-  xy: 609, 100
-  size: 151, 80
-  orig: 163, 92
-  offset: 6, 6
-  index: -1
-embarassed
-  rotate: false
-  xy: 609, 100
-  size: 151, 80
-  orig: 163, 92
-  offset: 6, 6
-  index: -1
+bounds:1266,240,316,168
+offsets:13,13,342,194
 05_serious
-  rotate: true
-  xy: 631, 238
-  size: 129, 90
-  orig: 141, 102
-  offset: 6, 6
-  index: -1
-serious
-  rotate: true
-  xy: 631, 238
-  size: 129, 90
-  orig: 141, 102
-  offset: 6, 6
-  index: -1
+bounds:1577,28,269,188
+offsets:13,12,295,213
 06_depressed
-  rotate: false
-  xy: 456, 121
-  size: 151, 81
-  orig: 163, 93
-  offset: 6, 6
-  index: -1
-depressed
-  rotate: false
-  xy: 456, 121
-  size: 151, 81
-  orig: 163, 93
-  offset: 6, 6
-  index: -1
+bounds:948,251,316,169
+offsets:13,13,342,195
 07
-  rotate: false
-  xy: 861, 783
-  size: 151, 90
-  orig: 163, 102
-  offset: 6, 6
-  index: -1
+bounds:1637,1067,316,189
+offsets:13,12,342,213
 08
-  rotate: false
-  xy: 452, 288
-  size: 151, 84
-  orig: 163, 96
-  offset: 6, 6
-  index: -1
+bounds:948,596,316,176
+offsets:13,13,342,202
 09
-  rotate: true
-  xy: 893, 51
-  size: 129, 89
-  orig: 141, 101
-  offset: 6, 6
-  index: -1
+bounds:1789,1745,269,186
+offsets:13,13,295,212
+rotate:90
 10
-  rotate: false
-  xy: 2, 769
-  size: 146, 92
-  orig: 158, 104
-  offset: 6, 6
-  index: -1
-12
-  rotate: false
-  xy: 2, 769
-  size: 146, 92
-  orig: 158, 104
-  offset: 6, 6
-  index: -1
+bounds:1631,872,306,193
+offsets:13,13,332,218
 11
-  rotate: false
-  xy: 452, 204
-  size: 151, 82
-  orig: 163, 94
-  offset: 6, 6
-  index: -1
-13
-  rotate: false
-  xy: 452, 204
-  size: 151, 82
-  orig: 163, 94
-  offset: 6, 6
-  index: -1
+bounds:945,422,316,172
+offsets:13,12,342,196
 CH0271
-  rotate: false
-  xy: 340, 368
-  size: 524, 601
-  orig: 532, 1518
-  offset: 3, 914
-  index: -1
+bounds:708,756,1102,1258
+offsets:6,1917,1115,3184
 CH0271_1
-  rotate: false
-  xy: 2, 3
-  size: 494, 965
-  orig: 532, 1518
-  offset: 14, 0
-  index: -1
+bounds:2,2,1034,2012
+offsets:31,11,1115,3184
 default
-  rotate: false
-  xy: 497, 5
-  size: 129, 93
-  orig: 141, 105
-  offset: 6, 6
-  index: -1
+bounds:1035,44,269,194
+offsets:13,13,295,220
 eyeclose
-  rotate: true
-  xy: 405, 696
-  size: 131, 91
-  orig: 143, 103
-  offset: 6, 6
-  index: -1
+bounds:1584,218,275,190
+offsets:12,13,300,216
 halo
-  rotate: true
-  xy: 838, 429
-  size: 282, 184
-  orig: 294, 196
-  offset: 6, 6
-  index: -1
-normal
-  rotate: false
-  xy: 628, 5
-  size: 129, 93
-  orig: 141, 105
-  offset: 6, 6
-  index: -1
-obj_front hair
-  rotate: false
-  xy: 723, 182
-  size: 299, 212
-  orig: 311, 226
-  offset: 6, 8
-  index: -1
+bounds:1455,410,591,385
+offsets:13,13,616,411
+obj_fronthair
+bounds:2,1752,391,262
+offsets:134,75,653,474

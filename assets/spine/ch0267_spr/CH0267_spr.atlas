@@ -1,258 +1,113 @@
-
 CH0267_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.22
 00
-  rotate: true
-  xy: 730, 322
-  size: 119, 89
-  orig: 119, 89
-  offset: 0, 0
-  index: -1
+bounds:1493,348,240,172
+offsets:12,12,264,196
 01
-  rotate: true
-  xy: 640, 326
-  size: 122, 89
-  orig: 122, 89
-  offset: 0, 0
-  index: -1
+bounds:1775,1418,271,196
 default
-  rotate: true
-  xy: 640, 326
-  size: 122, 89
-  orig: 122, 89
-  offset: 0, 0
-  index: -1
+bounds:1775,1418,271,196
 02
-  rotate: true
-  xy: 665, 619
-  size: 121, 89
-  orig: 121, 89
-  offset: 0, 0
-  index: -1
+bounds:1451,688,244,172
+offsets:12,12,268,196
 03
-  rotate: true
-  xy: 821, 227
-  size: 116, 86
-  orig: 116, 86
-  offset: 0, 0
-  index: -1
+bounds:1050,182,232,166
+offsets:12,12,256,190
 04
-  rotate: true
-  xy: 854, 103
-  size: 122, 80
-  orig: 122, 80
-  offset: 0, 0
-  index: -1
+bounds:1284,192,246,154
+offsets:12,12,270,178
 05
-  rotate: true
-  xy: 881, 345
-  size: 122, 79
-  orig: 122, 79
-  offset: 0, 0
-  index: -1
+bounds:2,663,246,152
+offsets:12,12,270,176
+rotate:90
 06
-  rotate: true
-  xy: 756, 575
-  size: 121, 87
-  orig: 121, 87
-  offset: 0, 0
-  index: -1
+bounds:855,356,244,170
+offsets:12,12,268,194
 07
-  rotate: true
-  xy: 123, 3
-  size: 114, 78
-  orig: 114, 78
-  offset: 0, 0
-  index: -1
+bounds:2,2,229,148
+offsets:12,12,253,172
 08
-  rotate: false
-  xy: 454, 46
-  size: 119, 80
-  orig: 119, 80
-  offset: 0, 0
-  index: -1
+bounds:1284,37,240,153
+offsets:12,12,264,177
 09
-  rotate: false
-  xy: 2, 40
-  size: 119, 80
-  orig: 119, 80
-  offset: 0, 0
-  index: -1
+bounds:657,40,240,153
+offsets:12,12,264,177
 10
-  rotate: false
-  xy: 685, 227
-  size: 114, 93
-  orig: 114, 93
-  offset: 0, 0
-  index: -1
+bounds:1015,528,230,182
+offsets:12,12,254,206
 11
-  rotate: true
-  xy: 845, 567
-  size: 116, 86
-  orig: 116, 86
-  offset: 0, 0
-  index: -1
+bounds:1735,185,232,168
+offsets:12,12,256,192
 12
-  rotate: true
-  xy: 578, 104
-  size: 121, 95
-  orig: 121, 95
-  offset: 0, 0
-  index: -1
+bounds:1545,1798,244,186
+offsets:12,12,268,210
 13
-  rotate: true
-  xy: 867, 685
-  size: 122, 80
-  orig: 122, 80
-  offset: 0, 0
-  index: -1
+bounds:809,1502,246,153
+offsets:12,12,270,177
+rotate:90
 14
-  rotate: true
-  xy: 765, 104
-  size: 121, 87
-  orig: 121, 87
-  offset: 0, 0
-  index: -1
+bounds:1247,516,244,170
+offsets:12,12,268,194
 15
-  rotate: false
-  xy: 811, 18
-  size: 108, 83
-  orig: 108, 83
-  offset: 0, 0
-  index: -1
+bounds:899,20,216,160
+offsets:12,12,240,184
 16
-  rotate: true
-  xy: 2, 345
-  size: 122, 93
-  orig: 122, 93
-  offset: 0, 0
-  index: -1
+bounds:1664,1040,247,182
+offsets:12,12,271,206
 17
-  rotate: true
-  xy: 612, 496
-  size: 121, 91
-  orig: 121, 91
-  offset: 0, 0
-  index: -1
+bounds:1253,884,244,179
+offsets:12,12,268,203
 18
-  rotate: true
-  xy: 794, 443
-  size: 122, 85
-  orig: 122, 85
-  offset: 0, 0
-  index: -1
+bounds:1101,350,246,164
+offsets:12,12,270,188
 19
-  rotate: false
-  xy: 778, 821
-  size: 122, 85
-  orig: 122, 85
-  offset: 0, 0
-  index: -1
+bounds:1735,355,246,165
+offsets:12,12,270,189
 20
-  rotate: false
-  xy: 693, 23
-  size: 116, 78
-  orig: 116, 78
-  offset: 0, 0
-  index: -1
+bounds:1686,34,232,149
+offsets:12,12,256,173
 21
-  rotate: true
-  xy: 675, 103
-  size: 122, 88
-  orig: 122, 88
-  offset: 0, 0
-  index: -1
+bounds:1745,867,247,171
+offsets:12,12,271,195
 22
-  rotate: false
-  xy: 454, 128
-  size: 122, 97
-  orig: 122, 97
-  offset: 0, 0
-  index: -1
+bounds:1415,1065,247,192
+offsets:12,12,271,216
 23
-  rotate: false
-  xy: 561, 227
-  size: 122, 97
-  orig: 122, 97
-  offset: 0, 0
-  index: -1
+bounds:1682,1224,247,192
+offsets:12,12,271,216
 24
-  rotate: false
-  xy: 208, 50
-  size: 121, 79
-  orig: 121, 79
-  offset: 0, 0
-  index: -1
+bounds:1532,102,244,152
+offsets:12,12,268,176
+rotate:90
 25
-  rotate: false
-  xy: 2, 265
-  size: 109, 78
-  orig: 109, 78
-  offset: 0, 0
-  index: -1
+bounds:233,2,218,148
+offsets:12,12,242,172
 26
-  rotate: true
-  xy: 356, 679
-  size: 122, 83
-  orig: 122, 83
-  offset: 0, 0
-  index: -1
+bounds:802,195,246,159
+offsets:12,12,270,183
 27
-  rotate: false
-  xy: 331, 79
-  size: 121, 90
-  orig: 121, 90
-  offset: 0, 0
-  index: -1
+bounds:1499,862,244,176
+offsets:12,12,268,200
 28
-  rotate: true
-  xy: 688, 742
-  size: 122, 88
-  orig: 122, 88
-  offset: 0, 0
-  index: -1
+bounds:1745,694,246,171
+offsets:12,12,270,195
 29
-  rotate: false
-  xy: 575, 22
-  size: 116, 79
-  orig: 116, 79
-  offset: 0, 0
-  index: -1
+bounds:2,498,232,150
+offsets:12,12,256,174
 30
-  rotate: true
-  xy: 778, 698
-  size: 121, 87
-  orig: 121, 87
-  offset: 0, 0
-  index: -1
+bounds:1697,522,244,170
+offsets:12,12,268,194
 31
-  rotate: true
-  xy: 705, 450
-  size: 123, 87
-  orig: 123, 87
-  offset: 0, 0
-  index: -1
+bounds:1201,712,248,170
+offsets:12,12,272,194
 CH0267
-  rotate: false
-  xy: 2, 119
-  size: 456, 814
-  orig: 456, 1343
-  offset: 0, 529
-  index: -1
+bounds:2,152,1011,1832
+offsets:0,1147,1011,2979
 CH0267_1
-  rotate: false
-  xy: 362, 361
-  size: 324, 567
-  orig: 456, 1343
-  offset: 112, 2
-  index: -1
+bounds:834,727,718,1257
+offsets:249,5,1011,2979
 halo
-  rotate: 180
-  xy: 360, 175
-  size: 316, 319
-  orig: 317, 320
-  offset: 0, 1
-  index: -1
+bounds:1345,1199,701,708
+offsets:0,2,703,710

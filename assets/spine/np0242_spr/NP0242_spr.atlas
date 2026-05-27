@@ -1,34 +1,16 @@
-
 NP0242_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
 NP0242
-  rotate: false
-  xy: 2, 3
-  size: 528, 950
-  orig: 535, 1561
-  offset: 0, 0
-  index: -1
+bounds:2,2,1115,2000
+offsets:0,0,1115,3253
 NP0242_C
-  rotate: 180
-  xy: 411, 283
-  size: 483, 670
-  orig: 535, 1561
-  offset: 52, 891
-  index: -1
+bounds:866,607,1006,1395
+offsets:109,1857,1115,3253
+rotate:180
 halo_1
-  rotate: true
-  xy: 723, 58
-  size: 223, 163
-  orig: 223, 163
-  offset: 0, 0
-  index: -1
+bounds:1509,145,465,339
+rotate:270
 halo_2
-  rotate: false
-  xy: 493, 70
-  size: 228, 167
-  orig: 228, 167
-  offset: 0, 0
-  index: -1
+bounds:1032,277,475,349
