@@ -1,43 +1,52 @@
 NP0061_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.58
+size:2048,2048
+filter:Linear,Linear
+scale:1.22
 00_default
-	bounds: 669, 130, 126, 92
+bounds:1779,710,266,194
+rotate:90
 01_normal
-	bounds: 850, 132, 126, 92
+bounds:843,806,266,194
 02_respond
-	bounds: 2, 111, 126, 91
+bounds:735,612,265,192
 03_smile
-	bounds: 130, 75, 127, 88
-	rotate: 90
+bounds:2,310,267,185
 04_embarrass
-	bounds: 925, 440, 126, 97
-	rotate: 90
+bounds:1786,1506,265,205
+rotate:90
 05_serious
-	bounds: 246, 139, 125, 96
+bounds:1764,978,262,201
+rotate:90
 06_depressed
-	bounds: 373, 83, 125, 91
+bounds:1780,446,262,192
+rotate:90
 07
-	bounds: 897, 226, 125, 99
+bounds:1764,1242,262,207
+rotate:90
 08
-	bounds: 722, 224, 126, 97
+bounds:1497,1083,265,204
 09
-	bounds: 649, 335, 126, 100
+bounds:1497,1313,265,210
 10
-	bounds: 595, 233, 125, 100
+bounds:1786,1773,262,211
+rotate:90
 NP0061
-	bounds: 664, 321, 321, 701
-	offsets: 323, 0, 734, 1525
-	rotate: 180
-NP006199
-	bounds: 2, 175, 734, 847
-	offsets: 0, 678, 734, 1525
+bounds:2,310,1069,1725
+offsets:476,1482,1545,3207
+NP0061C
+bounds:961,380,557,1655
+offsets:789,0,1545,3207
+rotate:180
+NP0061C2
+bounds:710,2,707,1068
+offsets:0,1635,1545,3207
+rotate:270
 eyeclose
-	bounds: 541, 139, 126, 92
+bounds:1475,887,266,194
 front_hair
-	bounds: 2, 334, 128, 81
+bounds:1466,715,270,170
 glass
-	bounds: 2, 952, 136, 70
+bounds:1687,296,285,148
 halo
-	bounds: 2, 204, 242, 126
+bounds:1519,1525,510,265
+rotate:90

@@ -1,174 +1,61 @@
-
 NP0066_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:4096,2048
+filter:Linear,Linear
+scale:1.03
 00_defalt
-  rotate: false
-  xy: 330, 683
-  size: 120, 86
-  orig: 120, 86
-  offset: 0, 0
-  index: -1
+bounds:3106,868,246,176
 02_respond
-  rotate: false
-  xy: 330, 683
-  size: 120, 86
-  orig: 120, 86
-  offset: 0, 0
-  index: -1
-00_eye close
-  rotate: false
-  xy: 549, 546
-  size: 120, 86
-  orig: 120, 86
-  offset: 0, 0
-  index: -1
+bounds:3106,868,246,176
+00_eyeclose
+bounds:3354,879,246,176
 01_normal
-  rotate: false
-  xy: 584, 459
-  size: 120, 86
-  orig: 120, 86
-  offset: 0, 0
-  index: -1
+bounds:3602,890,246,176
 03_smile
-  rotate: false
-  xy: 122, 3
-  size: 109, 84
-  orig: 109, 84
-  offset: 0, 0
-  index: -1
+bounds:3708,1513,224,173
 04_embarassed
-  rotate: false
-  xy: 2, 78
-  size: 118, 80
-  orig: 118, 80
-  offset: 0, 0
-  index: -1
+bounds:1221,548,243,165
 05_serious
-  rotate: false
-  xy: 632, 918
-  size: 119, 85
-  orig: 119, 85
-  offset: 0, 0
-  index: -1
+bounds:2471,714,245,174
 06_depressed
-  rotate: true
-  xy: 2, 506
-  size: 118, 80
-  orig: 118, 80
-  offset: 0, 0
-  index: -1
+bounds:2226,561,243,165
 07
-  rotate: false
-  xy: 666, 832
-  size: 119, 85
-  orig: 119, 85
-  offset: 0, 0
-  index: -1
+bounds:3602,714,245,174
 08
-  rotate: false
-  xy: 706, 492
-  size: 116, 85
-  orig: 116, 85
-  offset: 0, 0
-  index: -1
+bounds:2,641,239,174
 09
-  rotate: true
-  xy: 792, 625
-  size: 118, 80
-  orig: 118, 80
-  offset: 0, 0
-  index: -1
+bounds:976,613,243,165
 10
-  rotate: false
-  xy: 446, 918
-  size: 118, 84
-  orig: 118, 84
-  offset: 0, 0
-  index: -1
+bounds:3849,659,243,173
 11
-  rotate: false
-  xy: 753, 918
-  size: 118, 84
-  orig: 118, 84
-  offset: 0, 0
-  index: -1
+bounds:3058,693,243,173
 12
-  rotate: false
-  xy: 501, 634
-  size: 119, 119
-  orig: 119, 119
-  offset: 0, 0
-  index: -1
+bounds:3850,1009,244,244
 13
-  rotate: false
-  xy: 671, 579
-  size: 119, 85
-  orig: 119, 85
-  offset: 0, 0
-  index: -1
+bounds:1442,715,245,174
 14
-  rotate: false
-  xy: 743, 745
-  size: 118, 84
-  orig: 118, 84
-  offset: 0, 0
-  index: -1
+bounds:3354,704,243,173
 15
-  rotate: false
-  xy: 787, 832
-  size: 118, 84
-  orig: 118, 84
-  offset: 0, 0
-  index: -1
+bounds:3850,834,243,173
 16
-  rotate: false
-  xy: 622, 665
-  size: 120, 86
-  orig: 120, 86
-  offset: 0, 0
-  index: -1
+bounds:2,1866,246,176
 NP00659
-  rotate: true
-  xy: 2, 626
-  size: 376, 664
-  orig: 457, 1121
-  offset: 80, 0
-  index: -1
+bounds:2459,674,775,1368
+offsets:165,0,941,2308
+rotate:180
 NP006599
-  rotate: false
-  xy: 1176, 518
-  size: 456, 485
-  orig: 457, 1121
-  offset: 0, 636
-  index: -1
+bounds:3071,1044,940,998
+offsets:0,1310,941,2308
+rotate:180
+NP0065992
+bounds:1008,776,362,448
+offsets:289,1860,941,2308
+rotate:90
 diorama
-  rotate: 180
-  xy: 2, 12
-  size: 1350, 991
-  orig: 1350, 991
-  offset: 0, 0
-  index: -1
+bounds:2,2,2781,2040
 glasses
-  rotate: false
-  xy: 80, 945
-  size: 121, 57
-  orig: 121, 57
-  offset: 0, 0
-  index: -1
+bounds:2043,1925,248,117
 glasses_crooked
-  rotate: false
-  xy: 202, 938
-  size: 120, 64
-  orig: 120, 64
-  offset: 0, 0
-  index: -1
+bounds:1466,581,246,132
 halo
-  rotate: false
-  xy: 156, 687
-  size: 172, 93
-  orig: 172, 93
-  offset: 0, 0
-  index: -1
+bounds:3728,1688,354,191
+rotate:90

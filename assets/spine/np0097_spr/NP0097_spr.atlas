@@ -1,160 +1,55 @@
-
 NP0097_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-00_eyeclose
-  rotate: true
-  xy: 853, 717
-  size: 128, 81
-  orig: 128, 81
-  offset: 0, 0
-  index: -1
-01_normal
-  rotate: true
-  xy: 847, 579
-  size: 131, 81
-  orig: 131, 81
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
 00_defualt
-  rotate: true
-  xy: 847, 579
-  size: 131, 81
-  orig: 131, 81
-  offset: 0, 0
-  index: -1
+bounds:1139,283,263,162
+01_normal
+bounds:1139,283,263,162
+00_eyeclose
+bounds:172,1162,256,162
+rotate:90
 02_respond
-  rotate: true
-  xy: 722, 310
-  size: 131, 85
-  orig: 131, 85
-  offset: 0, 0
-  index: -1
+bounds:1712,615,263,170
 03_smile
-  rotate: true
-  xy: 800, 177
-  size: 131, 83
-  orig: 131, 83
-  offset: 0, 0
-  index: -1
+bounds:1397,447,263,166
 04_embarassed
-  rotate: false
-  xy: 2, 726
-  size: 131, 86
-  orig: 131, 86
-  offset: 0, 0
-  index: -1
+bounds:1447,785,263,172
 05_serious
-  rotate: true
-  xy: 767, 713
-  size: 131, 84
-  orig: 131, 84
-  offset: 0, 0
-  index: -1
+bounds:1434,615,263,168
 06_depressed
-  rotate: true
-  xy: 883, 47
-  size: 128, 79
-  orig: 128, 79
-  offset: 0, 0
-  index: -1
+bounds:1794,1068,256,158
+rotate:90
 07
-  rotate: true
-  xy: 833, 447
-  size: 128, 83
-  orig: 128, 83
-  offset: 0, 0
-  index: -1
+bounds:1813,1326,256,166
+rotate:90
 08
-  rotate: true
-  xy: 800, 41
-  size: 134, 80
-  orig: 134, 80
-  offset: 0, 0
-  index: -1
+bounds:1662,452,268,161
 09
-  rotate: true
-  xy: 761, 577
-  size: 134, 83
-  orig: 134, 83
-  offset: 0, 0
-  index: -1
+bounds:1813,1584,268,167
+rotate:90
 10
-  rotate: true
-  xy: 746, 443
-  size: 131, 85
-  orig: 131, 85
-  offset: 0, 0
-  index: -1
+bounds:1712,787,263,170
 11
-  rotate: false
-  xy: 773, 846
-  size: 131, 82
-  orig: 131, 82
-  offset: 0, 0
-  index: -1
+bounds:1662,287,263,163
 12
-  rotate: false
-  xy: 442, 42
-  size: 131, 77
-  orig: 131, 77
-  offset: 0, 0
-  index: -1
+bounds:1404,130,263,155
 13
-  rotate: true
-  xy: 833, 310
-  size: 131, 82
-  orig: 131, 82
-  offset: 0, 0
-  index: -1
+bounds:874,330,263,163
 14
-  rotate: false
-  xy: 664, 160
-  size: 134, 148
-  orig: 134, 148
-  offset: 0, 0
-  index: -1
+bounds:1524,1254,268,296
 15
-  rotate: false
-  xy: 2, 813
-  size: 134, 150
-  orig: 134, 150
-  offset: 0, 0
-  index: -1
+bounds:1543,1552,268,300
 16
-  rotate: false
-  xy: 664, 11
-  size: 134, 146
-  orig: 134, 146
-  offset: 0, 0
-  index: -1
+bounds:1516,959,269,293
 NP0097
-  rotate: false
-  xy: 2, 39
-  size: 442, 925
-  orig: 442, 1565
-  offset: 0, 0
-  index: -1
+bounds:2,2,884,1850
+offsets:0,0,884,3130
 NP00973
-  rotate: false
-  xy: 343, 285
-  size: 429, 679
-  orig: 442, 1565
-  offset: 6, 886
-  index: -1
+bounds:684,494,857,1358
+offsets:12,1772,884,3130
 front hair
-  rotate: false
-  xy: 83, 600
-  size: 94, 101
-  orig: 94, 101
-  offset: 0, 0
-  index: -1
+bounds:883,125,187,203
 halo
-  rotate: false
-  xy: 446, 122
-  size: 216, 161
-  orig: 216, 161
-  offset: 0, 0
-  index: -1
+bounds:2,1420,432,323
+rotate:90

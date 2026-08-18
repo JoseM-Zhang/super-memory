@@ -1,47 +1,48 @@
 Tsubaki_spr.png
-	size: 2048, 2048
-	filter: Linear, Linear
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
 00_defalt
-	bounds: 2, 498, 210, 168
-	offsets: 10, 10, 230, 188
+bounds:1736,148,231,185
+offsets:11,11,253,207
 01_nomal
-	bounds: 2, 1854, 230, 192
+bounds:1793,1259,253,211
 02_respond
-	bounds: 1756, 614, 210, 171
-	offsets: 10, 10, 230, 191
+bounds:1503,145,231,188
+offsets:11,11,253,210
 03_smile
-	bounds: 214, 668, 210, 171
-	offsets: 10, 10, 230, 191
+bounds:2,148,231,188
+offsets:11,11,253,210
 04_embarrass
-	bounds: 234, 1875, 241, 171
-	offsets: 10, 10, 261, 191
+bounds:1769,1069,266,188
+offsets:11,11,287,210
 05_serious
-	bounds: 2, 700, 210, 171
-	offsets: 10, 10, 230, 191
+bounds:252,183,231,188
+offsets:11,11,253,210
 06_serious
-	bounds: 1739, 1377, 210, 175
-	offsets: 10, 10, 230, 195
+bounds:1728,335,231,193
+offsets:11,11,253,215
 07
-	bounds: 496, 757, 181, 164
-	offsets: 10, 10, 201, 184
+bounds:2,338,248,192
+offsets:11,10,270,212
 08
-	bounds: 1340, 504, 179, 165
-	offsets: 10, 10, 199, 185
+bounds:252,532,248,192
+offsets:11,10,270,212
 09
-	bounds: 214, 505, 180, 161
-	offsets: 10, 10, 200, 181
+bounds:2,564,248,192
+offsets:11,10,270,212
 10
-	bounds: 1810, 1554, 236, 165
-	offsets: 10, 10, 256, 185
+bounds:2,1849,275,192
+offsets:11,10,297,212
 eyeclose
-	bounds: 1834, 1204, 210, 171
-	offsets: 10, 10, 230, 191
+bounds:1270,187,231,189
+offsets:11,11,253,210
 halo
-	bounds: 1541, 1623, 355, 423
-	offsets: 1, 0, 359, 423
+bounds:1655,1451,391,465
+offsets:1,0,395,465
 tsubaki
-	bounds: 563, 306, 1483, 1269
-	offsets: 213, 666, 1696, 1935
+bounds:415,2,1631,1393
+offsets:235,736,1866,2129
 tsubaki_1
-	bounds: 2, 840, 1551, 1206
-	offsets: 0, 0, 1696, 1935
+bounds:2,724,1705,1317
+offsets:3,8,1866,2129

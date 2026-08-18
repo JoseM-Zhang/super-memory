@@ -1,83 +1,29 @@
-
 NP0056_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.35
 00_default
-  rotate: false
-  xy: 177, 807
-  size: 125, 94
-  orig: 125, 94
-  offset: 0, 0
-  index: -1
+bounds:728,211,282,211
 02_respond
-  rotate: false
-  xy: 896, 655
-  size: 125, 108
-  orig: 125, 108
-  offset: 0, 0
-  index: -1
+bounds:725,529,282,243
 03_smile
-  rotate: true
-  xy: 606, 336
-  size: 125, 92
-  orig: 125, 92
-  offset: 0, 0
-  index: -1
+bounds:2,1529,282,208
+rotate:90
 04_embarassed
-  rotate: false
-  xy: 160, 902
-  size: 158, 120
-  orig: 158, 120
-  offset: 0, 0
-  index: -1
+bounds:1305,1629,356,270
 05_serious
-  rotate: false
-  xy: 769, 574
-  size: 125, 102
-  orig: 125, 102
-  offset: 0, 0
-  index: -1
+bounds:1332,1144,282,230
 06_depressed
-  rotate: false
-  xy: 898, 778
-  size: 107, 85
-  orig: 107, 85
-  offset: 0, 0
-  index: -1
+bounds:728,19,242,190
 NP0056
-  rotate: false
-  xy: 2, 287
-  size: 462, 736
-  orig: 512, 1268
-  offset: 50, 1
-  index: -1
-NP0056999
-  rotate: false
-  xy: 393, 458
-  size: 512, 564
-  orig: 512, 1268
-  offset: 0, 704
-  index: -1
+bounds:2,450,1153,1449
+offsets:0,1405,1153,2854
+NP0056C
+bounds:1006,174,1040,1605
+offsets:113,0,1153,2854
 emo_01
-  rotate: false
-  xy: 896, 864
-  size: 125, 112
-  orig: 125, 112
-  offset: 0, 0
-  index: -1
+bounds:1364,1376,282,251
 eyeclose
-  rotate: false
-  xy: 465, 363
-  size: 125, 94
-  orig: 125, 94
-  offset: 0, 0
-  index: -1
+bounds:1764,688,282,211
 halo
-  rotate: false
-  xy: 700, 372
-  size: 322, 199
-  orig: 322, 199
-  offset: 0, 0
-  index: -1
+bounds:2,2,724,447

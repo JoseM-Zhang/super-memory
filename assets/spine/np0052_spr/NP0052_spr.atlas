@@ -1,104 +1,38 @@
-
 NP0052_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
 00_default
-  rotate: false
-  xy: 133, 908
-  size: 129, 111
-  orig: 129, 111
-  offset: 0, 0
-  index: -1
+bounds:1031,1353,282,241
 01_normal
-  rotate: false
-  xy: 776, 325
-  size: 129, 103
-  orig: 129, 103
-  offset: 0, 0
-  index: -1
+bounds:2,267,282,226
 02_respond
-  rotate: false
-  xy: 2, 906
-  size: 130, 113
-  orig: 130, 113
-  offset: 0, 0
-  index: -1
+bounds:2,1457,283,246
 03_smile
-  rotate: false
-  xy: 2, 792
-  size: 127, 112
-  orig: 127, 112
-  offset: 0, 0
-  index: -1
+bounds:1472,1346,276,245
 04_embarrassed
-  rotate: false
-  xy: 649, 367
-  size: 125, 110
-  orig: 125, 110
-  offset: 0, 0
-  index: -1
+bounds:374,301,272,240
 05_serious
-  rotate: false
-  xy: 265, 800
-  size: 124, 113
-  orig: 124, 113
-  offset: 0, 0
-  index: -1
+bounds:1713,479,270,246
 06_depressed
-  rotate: false
-  xy: 131, 312
-  size: 129, 101
-  orig: 129, 101
-  offset: 0, 0
-  index: -1
+bounds:648,110,282,220
 07
-  rotate: false
-  xy: 77, 415
-  size: 130, 108
-  orig: 130, 108
-  offset: 0, 0
-  index: -1
+bounds:1750,1356,283,235
 Halo
-  rotate: false
-  xy: 846, 431
-  size: 169, 142
-  orig: 169, 142
-  offset: 0, 0
-  index: -1
+bounds:2,495,370,310
 Halo_glow
-  rotate: false
-  xy: 615, 868
-  size: 177, 150
-  orig: 177, 150
-  offset: 0, 0
-  index: -1
+bounds:1454,1593,386,328
 NP0052
-  rotate: false
-  xy: 2, 290
-  size: 510, 729
-  orig: 703, 1217
-  offset: 0, 0
-  index: -1
-NP005299
-  rotate: 270
-  xy: 456, 332
-  size: 688, 534
-  orig: 703, 1217
-  offset: 15, 683
-  index: -1
+bounds:840,2,1193,1381
+offsets:342,1275,1535,2656
+rotate:180
+NP0052C
+bounds:2,542,1130,1379
+offsets:0,0,1535,2656
+NP0052C2
+bounds:2,1558,728,363
+offsets:29,1699,1535,2656
 eyeclose
-  rotate: false
-  xy: 2, 309
-  size: 127, 103
-  orig: 127, 103
-  offset: 0, 0
-  index: -1
+bounds:1680,251,277,226
 front hair
-  rotate: true
-  xy: 868, 811
-  size: 207, 149
-  orig: 207, 149
-  offset: 0, 0
-  index: -1
+bounds:1000,1596,452,325

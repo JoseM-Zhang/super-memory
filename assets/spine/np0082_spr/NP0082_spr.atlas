@@ -1,125 +1,44 @@
-
 NP0082_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.99
 01_nomal
-  rotate: false
-  xy: 387, 691
-  size: 112, 74
-  orig: 112, 74
-  offset: 0, 0
-  index: -1
+bounds:776,1353,227,150
 default
-  rotate: false
-  xy: 387, 691
-  size: 112, 74
-  orig: 112, 74
-  offset: 0, 0
-  index: -1
+bounds:776,1353,227,150
 02_repond
-  rotate: false
-  xy: 859, 847
-  size: 112, 78
-  orig: 112, 78
-  offset: 0, 0
-  index: -1
+bounds:1732,1677,227,158
 03_smile
-  rotate: false
-  xy: 375, 616
-  size: 112, 72
-  orig: 112, 72
-  offset: 0, 0
-  index: -1
+bounds:1712,1375,227,146
 04_embarassed
-  rotate: false
-  xy: 378, 544
-  size: 112, 70
-  orig: 112, 70
-  offset: 0, 0
-  index: -1
+bounds:761,1057,227,142
 05_serious
-  rotate: false
-  xy: 261, 661
-  size: 112, 74
-  orig: 112, 74
-  offset: 0, 0
-  index: -1
+bounds:524,1295,227,149
 06_depressed
-  rotate: false
-  xy: 916, 490
-  size: 105, 73
-  orig: 105, 73
-  offset: 0, 0
-  index: -1
+bounds:1614,1226,213,147
 07
-  rotate: false
-  xy: 795, 622
-  size: 106, 69
-  orig: 106, 69
-  offset: 0, 0
-  index: -1
+bounds:1499,1080,215,140
 08
-  rotate: false
-  xy: 858, 770
-  size: 113, 75
-  orig: 113, 75
-  offset: 0, 0
-  index: -1
+bounds:1731,1523,228,152
 NP0082
-  rotate: false
-  xy: 2, 234
-  size: 406, 789
-  orig: 1059, 1319
-  offset: 159, 0
-  index: -1
+bounds:2,435,818,1594
+offsets:322,0,2140,2665
 NP00823
-  rotate: false
-  xy: 315, 398
-  size: 543, 625
-  orig: 1059, 1319
-  offset: 0, 694
-  index: -1
+bounds:631,763,1100,1266
+offsets:0,1399,2140,2665
 NP00824
-  rotate: 180
-  xy: 488, 49
-  size: 534, 727
-  orig: 1059, 1319
-  offset: 525, 225
-  index: -1
+bounds:968,40,1078,1467
+offsets:1062,456,2140,2665
+rotate:180
 NP00825
-  rotate: 180
-  xy: 513, 28
-  size: 508, 411
-  orig: 1059, 1319
-  offset: 551, 195
-  index: -1
+bounds:1020,2,1026,831
+offsets:1114,394,2140,2665
+rotate:180
 eyeclose
-  rotate: false
-  xy: 846, 694
-  size: 108, 74
-  orig: 108, 74
-  offset: 0, 0
-  index: -1
+bounds:753,1201,218,150
 front_hair
-  rotate: false
-  xy: 860, 927
-  size: 130, 95
-  orig: 130, 95
-  offset: 0, 0
-  index: -1
+bounds:1733,1837,262,192
 halo_01
-  rotate: false
-  xy: 397, 261
-  size: 184, 149
-  orig: 184, 149
-  offset: 0, 0
-  index: -1
+bounds:798,485,372,301
 halo_02
-  rotate: false
-  xy: 854, 131
-  size: 167, 124
-  orig: 167, 124
-  offset: 0, 0
-  index: -1
+bounds:714,219,338,250

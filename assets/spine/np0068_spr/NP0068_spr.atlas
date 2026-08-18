@@ -1,97 +1,36 @@
-
 NP0068_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
 00_defualt
-  rotate: true
-  xy: 811, 111
-  size: 131, 90
-  orig: 131, 90
-  offset: 0, 0
-  index: -1
+bounds:2,2,288,197
 02_respond
-  rotate: true
-  xy: 811, 111
-  size: 131, 90
-  orig: 131, 90
-  offset: 0, 0
-  index: -1
+bounds:2,2,288,197
 01_normal
-  rotate: true
-  xy: 828, 255
-  size: 131, 90
-  orig: 131, 90
-  offset: 0, 0
-  index: -1
+bounds:798,23,288,197
 03_smile
-  rotate: false
-  xy: 545, 117
-  size: 131, 98
-  orig: 131, 98
-  offset: 0, 0
-  index: -1
+bounds:1758,208,288,216
 04_embarrassed
-  rotate: false
-  xy: 565, 825
-  size: 131, 119
-  orig: 131, 143
-  offset: 0, 24
-  index: -1
+bounds:1238,1705,288,261
+offsets:0,54,288,315
 05_serious
-  rotate: true
-  xy: 850, 812
-  size: 131, 90
-  orig: 131, 90
-  offset: 0, 0
-  index: -1
+bounds:1269,85,288,197
+rotate:90
 06
-  rotate: false
-  xy: 678, 133
-  size: 131, 95
-  orig: 131, 95
-  offset: 0, 0
-  index: -1
-06_drop shadow
-  rotate: false
-  xy: 233, 138
-  size: 132, 107
-  orig: 132, 107
-  offset: 0, 0
-  index: -1
+bounds:1468,185,288,209
+06_dropshadow
+bounds:506,213,290,235
 NP0068
-  rotate: false
-  xy: 2, 254
-  size: 613, 690
-  orig: 613, 1363
-  offset: 0, 673
-  index: -1
+bounds:2,449,1349,1517
+offsets:0,1482,1349,2999
 NP006899
-  rotate: false
-  xy: 545, 217
-  size: 333, 727
-  orig: 613, 1363
-  offset: 104, 0
-  index: -1
+bounds:1195,367,732,1599
+offsets:229,0,1349,2999
 eyeclose
-  rotate: true
-  xy: 852, 388
-  size: 131, 90
-  orig: 131, 90
-  offset: 0, 0
-  index: -1
-front hair
-  rotate: false
-  xy: 377, 148
-  size: 166, 150
-  orig: 166, 150
-  offset: 0, 0
-  index: -1
+bounds:1849,643,288,197
+rotate:90
+fronthair
+bounds:827,222,365,329
 halo
-  rotate: true
-  xy: 2, 123
-  size: 296, 230
-  orig: 296, 230
-  offset: 0, 0
-  index: -1
+bounds:2,168,651,505
+rotate:90

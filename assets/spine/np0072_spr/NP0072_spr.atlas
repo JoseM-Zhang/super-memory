@@ -1,363 +1,113 @@
-
 NP0072_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
 00
-  rotate: false
-  xy: 741, 225
-  size: 135, 77
-  orig: 135, 77
-  offset: 0, 0
-  index: -1
+bounds:1144,155,281,161
 01_normal
-  rotate: false
-  xy: 741, 225
-  size: 135, 77
-  orig: 135, 77
-  offset: 0, 0
-  index: -1
+bounds:1144,155,281,161
 00_H
-  rotate: false
-  xy: 872, 768
-  size: 114, 23
-  orig: 114, 23
-  offset: 0, 0
-  index: -1
+bounds:732,1944,238,48
 00_eyeclose_H
-  rotate: false
-  xy: 872, 768
-  size: 114, 23
-  orig: 114, 23
-  offset: 0, 0
-  index: -1
-01_normal_H
-  rotate: false
-  xy: 872, 768
-  size: 114, 23
-  orig: 114, 23
-  offset: 0, 0
-  index: -1
+bounds:732,1944,238,48
 03_smile_H
-  rotate: false
-  xy: 872, 768
-  size: 114, 23
-  orig: 114, 23
-  offset: 0, 0
-  index: -1
+bounds:732,1944,238,48
 00_NH
-  rotate: false
-  xy: 580, 171
-  size: 114, 23
-  orig: 114, 23
-  offset: 0, 0
-  index: -1
+bounds:492,1944,238,48
 00_eyeclose
-  rotate: false
-  xy: 740, 966
-  size: 127, 56
-  orig: 127, 56
-  offset: 0, 0
-  index: -1
+bounds:115,1778,264,118
 02_respond
-  rotate: true
-  xy: 703, 619
-  size: 135, 82
-  orig: 135, 82
-  offset: 0, 0
-  index: -1
+bounds:1765,307,281,170
 02_respond_H
-  rotate: false
-  xy: 218, 137
-  size: 113, 16
-  orig: 113, 16
-  offset: 0, 0
-  index: -1
+bounds:1686,1958,236,34
 02_respond_NH
-  rotate: false
-  xy: 802, 137
-  size: 113, 16
-  orig: 113, 16
-  offset: 0, 0
-  index: -1
+bounds:1448,1958,236,34
 03_smile
-  rotate: false
-  xy: 81, 220
-  size: 135, 75
-  orig: 135, 75
-  offset: 0, 0
-  index: -1
+bounds:270,158,281,156
 04_embarrass
-  rotate: false
-  xy: 580, 195
-  size: 135, 71
-  orig: 135, 71
-  offset: 0, 0
-  index: -1
+bounds:553,85,281,149
 04_embarrass_H
-  rotate: true
-  xy: 81, 321
-  size: 99, 25
-  orig: 99, 25
-  offset: 0, 0
-  index: -1
+bounds:634,1891,206,51
 04_embarrass_NH
-  rotate: true
-  xy: 479, 284
-  size: 99, 25
-  orig: 99, 25
-  offset: 0, 0
-  index: -1
+bounds:426,1891,206,51
 05_serious
-  rotate: false
-  xy: 739, 304
-  size: 135, 84
-  orig: 135, 84
-  offset: 0, 0
-  index: -1
+bounds:1145,318,281,175
 05_serious_H
-  rotate: false
-  xy: 910, 792
-  size: 109, 64
-  orig: 109, 64
-  offset: 0, 0
-  index: -1
+bounds:1427,141,228,134
 05_serious_NH
-  rotate: false
-  xy: 717, 159
-  size: 109, 64
-  orig: 109, 64
-  offset: 0, 0
-  index: -1
+bounds:1818,1198,228,134
 06_depressed
-  rotate: 180
-  xy: 443, 171
-  size: 135, 70
-  orig: 135, 70
-  offset: 0, 0
-  index: -1
+bounds:836,78,281,146
 06_depressed_H
-  rotate: true
-  xy: 26, 627
-  size: 101, 25
-  orig: 101, 25
-  offset: 0, 0
-  index: -1
+bounds:214,1898,210,51
 06_depressed_NH
-  rotate: true
-  xy: 384, 408
-  size: 101, 25
-  orig: 101, 25
-  offset: 0, 0
-  index: -1
+bounds:2,1898,210,51
 07
-  rotate: 270
-  xy: 949, 469
-  size: 127, 73
-  orig: 127, 73
-  offset: 0, 0
-  index: -1
+bounds:1068,2,265,151
 07_H
-  rotate: false
-  xy: 2, 150
-  size: 106, 23
-  orig: 106, 23
-  offset: 0, 0
-  index: -1
+bounds:1671,1908,221,48
 07_NH
-  rotate: false
-  xy: 110, 150
-  size: 106, 23
-  orig: 106, 23
-  offset: 0, 0
-  index: -1
+bounds:1448,1908,221,48
 08
-  rotate: true
-  xy: 2, 423
-  size: 134, 82
-  orig: 134, 82
-  offset: 0, 0
-  index: -1
+bounds:1428,277,280,170
 08_H
-  rotate: false
-  xy: 372, 149
-  size: 116, 20
-  orig: 116, 20
-  offset: 0, 0
-  index: -1
+bounds:247,1951,243,41
 09_H
-  rotate: false
-  xy: 372, 149
-  size: 116, 20
-  orig: 116, 20
-  offset: 0, 0
-  index: -1
+bounds:247,1951,243,41
 13_H
-  rotate: false
-  xy: 372, 149
-  size: 116, 20
-  orig: 116, 20
-  offset: 0, 0
-  index: -1
+bounds:247,1951,243,41
 08_NH
-  rotate: false
-  xy: 491, 149
-  size: 116, 20
-  orig: 116, 20
-  offset: 0, 0
-  index: -1
+bounds:2,1951,243,41
 09_NH
-  rotate: false
-  xy: 491, 149
-  size: 116, 20
-  orig: 116, 20
-  offset: 0, 0
-  index: -1
+bounds:2,1951,243,41
 13_NH
-  rotate: false
-  xy: 491, 149
-  size: 116, 20
-  orig: 116, 20
-  offset: 0, 0
-  index: -1
+bounds:2,1951,243,41
 09
-  rotate: false
-  xy: 884, 296
-  size: 137, 92
-  orig: 137, 92
-  offset: 0, 0
-  index: -1
+bounds:856,381,286,193
 10
-  rotate: 180
-  xy: 878, 220
-  size: 135, 74
-  orig: 135, 74
-  offset: 0, 0
-  index: -1
+bounds:1710,150,281,155
 10_H
-  rotate: false
-  xy: 609, 144
-  size: 94, 25
-  orig: 94, 25
-  offset: 0, 0
-  index: -1
+bounds:632,1838,196,51
 10_NH
-  rotate: false
-  xy: 705, 132
-  size: 94, 25
-  orig: 94, 25
-  offset: 0, 0
-  index: -1
+bounds:1345,1855,196,51
 11
-  rotate: false
-  xy: 265, 220
-  size: 136, 76
-  orig: 136, 76
-  offset: 0, 0
-  index: -1
+bounds:2,744,284,159
+rotate:90
 11_H
-  rotate: false
-  xy: 265, 156
-  size: 105, 62
-  orig: 105, 62
-  offset: 0, 0
-  index: -1
+bounds:2,160,219,130
 11_NH
-  rotate: false
-  xy: 829, 155
-  size: 105, 62
-  orig: 105, 62
-  offset: 0, 0
-  index: -1
+bounds:1124,1812,219,130
 12
-  rotate: true
-  xy: 2, 282
-  size: 139, 77
-  orig: 139, 77
-  offset: 0, 0
-  index: -1
+bounds:553,236,289,161
 12_H
-  rotate: true
-  xy: 2, 754
-  size: 113, 23
-  orig: 113, 23
-  offset: 0, 0
-  index: -1
+bounds:1210,1944,236,48
 12_NH
-  rotate: true
-  xy: 2, 638
-  size: 113, 23
-  orig: 113, 23
-  offset: 0, 0
-  index: -1
+bounds:972,1944,236,48
 13
-  rotate: true
-  xy: 939, 858
-  size: 134, 82
-  orig: 134, 82
-  offset: 0, 0
-  index: -1
+bounds:842,1771,280,171
 13_NH_Head
-  rotate: true
-  xy: 404, 254
-  size: 143, 74
-  orig: 143, 74
-  offset: 0, 0
-  index: -1
+bounds:844,226,298,154
 HairCover
-  rotate: true
-  xy: 796, 390
-  size: 213, 205
-  orig: 213, 205
-  offset: 0, 0
-  index: -1
+bounds:411,337,444,426
+rotate:180
 Halo
-  rotate: false
-  xy: 787, 605
-  size: 235, 155
-  orig: 235, 155
-  offset: 0, 0
-  index: -1
+bounds:2,1030,489,324
 Helmet_Back
-  rotate: 180
-  xy: 13, 174
-  size: 250, 63
-  orig: 250, 63
-  offset: 0, 0
-  index: -1
+bounds:2,24,521,131
 Helmet_Front
-  rotate: false
-  xy: 685, 762
-  size: 255, 259
-  orig: 255, 259
-  offset: 0, 0
-  index: -1
+bounds:2,1356,531,540
 Helmet_Haircover
-  rotate: true
-  xy: 633, 391
-  size: 213, 187
-  orig: 213, 187
-  offset: 0, 0
-  index: -1
+bounds:163,663,444,388
+offsets:0,1,444,389
 Helmet_Head
-  rotate: 180
-  xy: 527, 242
-  size: 213, 191
-  orig: 214, 191
-  offset: 0, 0
-  index: -1
+bounds:2,292,442,397
+offsets:0,1,445,398
+rotate:270
 NP0072
-  rotate: false
-  xy: 2, 297
-  size: 400, 726
-  orig: 436, 1348
-  offset: 0, 0
-  index: -1
+bounds:533,1100,833,1513
+offsets:0,0,908,2809
+rotate:270
 NP00729
-  rotate: false
-  xy: 307, 380
-  size: 408, 643
-  orig: 436, 1348
-  offset: 28, 705
-  index: -1
+bounds:707,448,850,1339
+offsets:58,1470,908,2809
+rotate:90

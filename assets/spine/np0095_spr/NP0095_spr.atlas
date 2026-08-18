@@ -1,27 +1,15 @@
-
 NP0095_spr.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.63
 NP0095
-  rotate: false
-  xy: 2, 407
-  size: 1514, 1439
-  orig: 2127, 1808
-  offset: 311, 369
-  index: -1
+bounds:2,381,1734,1648
+offsets:356,423,2436,2071
 NP00956
-  rotate: 180
-  xy: 563, 4
-  size: 1059, 406
-  orig: 2127, 1808
-  offset: 1068, 0
-  index: -1
+bounds:834,2,1212,465
+offsets:1224,0,2436,2071
+rotate:180
 NP00957
-  rotate: true
-  xy: 1335, 598
-  size: 1098, 410
-  orig: 2127, 1808
-  offset: 0, 0
-  index: -1
+bounds:1577,732,1258,469
+offsets:0,0,2436,2071
+rotate:90

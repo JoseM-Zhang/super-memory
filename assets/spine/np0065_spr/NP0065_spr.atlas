@@ -1,181 +1,61 @@
-
 NP0065_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.33
 00_default
-  rotate: true
-  xy: 821, 458
-  size: 115, 83
-  orig: 115, 83
-  offset: 0, 0
-  index: -1
+bounds:2,188,254,184
 01_nomal
-  rotate: true
-  xy: 652, 369
-  size: 115, 82
-  orig: 115, 82
-  offset: 0, 0
-  index: -1
+bounds:258,185,254,182
 02_respond
-  rotate: true
-  xy: 909, 575
-  size: 115, 85
-  orig: 115, 85
-  offset: 0, 0
-  index: -1
+bounds:350,369,254,189
 03_smile
-  rotate: false
-  xy: 653, 281
-  size: 101, 86
-  orig: 101, 86
-  offset: 0, 0
-  index: -1
+bounds:1630,22,225,190
 04_embarassed
-  rotate: true
-  xy: 432, 682
-  size: 115, 86
-  orig: 115, 86
-  offset: 0, 0
-  index: -1
+bounds:606,368,254,190
 05_serious
-  rotate: true
-  xy: 904, 342
-  size: 115, 81
-  orig: 115, 81
-  offset: 0, 0
-  index: -1
+bounds:1374,163,254,180
 06_depressed
-  rotate: true
-  xy: 821, 342
-  size: 115, 82
-  orig: 115, 82
-  offset: 0, 0
-  index: -1
+bounds:514,185,254,181
 07
-  rotate: true
-  xy: 900, 902
-  size: 115, 86
-  orig: 115, 86
-  offset: 0, 0
-  index: -1
+bounds:689,1145,254,192
 08
-  rotate: true
-  xy: 2, 621
-  size: 115, 86
-  orig: 115, 86
-  offset: 0, 0
-  index: -1
+bounds:862,368,254,190
 09
-  rotate: false
-  xy: 307, 667
-  size: 123, 140
-  orig: 123, 140
-  offset: 0, 0
-  index: -1
+bounds:1773,400,273,311
 10
-  rotate: false
-  xy: 799, 691
-  size: 147, 113
-  orig: 147, 113
-  offset: 0, 0
-  index: -1
+bounds:1445,345,326,251
 11
-  rotate: false
-  xy: 900, 819
-  size: 115, 81
-  orig: 115, 81
-  offset: 0, 0
-  index: -1
+bounds:770,186,254,180
 12
-  rotate: true
-  xy: 905, 458
-  size: 115, 83
-  orig: 115, 83
-  offset: 0, 0
-  index: -1
+bounds:1773,214,254,184
 13
-  rotate: true
-  xy: 821, 575
-  size: 115, 86
-  orig: 115, 86
-  offset: 0, 0
-  index: -1
+bounds:1118,402,254,190
 14
-  rotate: false
-  xy: 496, 293
-  size: 103, 88
-  orig: 103, 88
-  offset: 0, 0
-  index: -1
+bounds:1026,20,227,194
 15
-  rotate: true
-  xy: 2, 737
-  size: 115, 86
-  orig: 115, 86
-  offset: 0, 0
-  index: -1
+bounds:1427,1725,254,192
 16
-  rotate: true
-  xy: 510, 383
-  size: 115, 83
-  orig: 115, 83
-  offset: 0, 0
-  index: -1
+bounds:1118,216,254,184
 17
-  rotate: true
-  xy: 736, 376
-  size: 115, 83
-  orig: 115, 83
-  offset: 0, 0
-  index: -1
-NP00659
-  rotate: false
-  xy: 2, 312
-  size: 512, 705
-  orig: 512, 1231
-  offset: 0, 0
-  index: -1
-NP006599
-  rotate: true
-  xy: 260, 621
-  size: 396, 537
-  orig: 512, 1231
-  offset: 75, 694
-  index: -1
+bounds:2,374,254,184
+NP0065
+bounds:626,861,1056,1339
+offsets:61,1282,1136,2729
+rotate:90
+NP0065C
+bounds:2,559,1136,1358
+offsets:0,0,1136,2729
 eyeclose
-  rotate: true
-  xy: 2, 266
-  size: 98, 83
-  orig: 98, 83
-  offset: 0, 0
-  index: -1
+bounds:2,2,217,184
 halo_01
-  rotate: false
-  xy: 2, 975
-  size: 92, 41
-  orig: 92, 41
-  offset: 0, 0
-  index: -1
+bounds:2,1825,203,92
 halo_02
-  rotate: true
-  xy: 798, 806
-  size: 210, 100
-  orig: 210, 100
-  offset: 0, 0
-  index: -1
+bounds:2,977,466,222
+rotate:90
 mask2
-  rotate: true
-  xy: 516, 484
-  size: 190, 303
-  orig: 190, 304
-  offset: 0, 0
-  index: -1
+bounds:1130,595,420,672
+offsets:0,0,420,674
+rotate:90
 side_tail99
-  rotate: true
-  xy: 756, 278
-  size: 65, 141
-  orig: 65, 229
-  offset: 0, 88
-  index: -1
+bounds:2,1499,145,313
+offsets:0,195,145,508

@@ -1,20 +1,14 @@
-
 NP0042_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.9
 NP0042
-  rotate: false
-  xy: 2, 3
-  size: 1116, 750
-  orig: 1116, 1658
-  offset: 0, 0
-  index: -1
+bounds:2,760,1895,1273
+offsets:0,0,1895,2816
 NP00423
-  rotate: true
-  xy: 941, 113
-  size: 576, 967
-  orig: 1116, 1658
-  offset: 274, 691
-  index: -1
+bounds:2,2,891,822
+offsets:518,1174,1895,2816
+NP00424
+bounds:1073,170,804,898
+offsets:559,1900,1895,2816
+rotate:90

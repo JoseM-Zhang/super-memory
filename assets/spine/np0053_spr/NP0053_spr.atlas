@@ -1,83 +1,30 @@
-
 NP0053_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 00_default
-  rotate: false
-  xy: 615, 748
-  size: 113, 109
-  orig: 113, 109
-  offset: 0, 0
-  index: -1
+bounds:2,98,268,257
 01_normal
-  rotate: false
-  xy: 2, 364
-  size: 113, 109
-  orig: 113, 109
-  offset: 0, 0
-  index: -1
+bounds:1169,479,268,259
 02_respond
-  rotate: false
-  xy: 638, 917
-  size: 116, 105
-  orig: 116, 105
-  offset: 0, 0
-  index: -1
+bounds:1576,33,274,248
 03_smile
-  rotate: false
-  xy: 2, 261
-  size: 117, 102
-  orig: 117, 102
-  offset: 0, 0
-  index: -1
+bounds:2,1519,277,240
 04_embarrass
-  rotate: false
-  xy: 158, 397
-  size: 125, 112
-  orig: 125, 112
-  offset: 0, 0
-  index: -1
+bounds:2,357,295,264
 05_serious
-  rotate: false
-  xy: 2, 639
-  size: 111, 91
-  orig: 111, 91
-  offset: 0, 0
-  index: -1
+bounds:1309,2,263,214
 06_depressed
-  rotate: false
-  xy: 730, 823
-  size: 119, 93
-  orig: 119, 93
-  offset: 0, 0
-  index: -1
+bounds:2,644,281,220
+rotate:90
 Halo
-  rotate: false
-  xy: 2, 476
-  size: 155, 140
-  orig: 155, 140
-  offset: 0, 0
-  index: -1
+bounds:1528,1427,365,332
 NP0053
-  rotate: 270
-  xy: 212, 3
-  size: 657, 643
-  orig: 658, 1087
-  offset: 1, 0
-  index: -1
-NP0053999
-  rotate: false
-  xy: 2, 491
-  size: 635, 532
-  orig: 658, 1087
-  offset: 1, 555
-  index: -1
+bounds:2,4,1556,1755
+offsets:0,814,1556,2569
+NP0053C
+bounds:1430,283,616,1080
+offsets:447,0,1556,2569
+rotate:180
 eyeclose
-  rotate: false
-  xy: 589, 636
-  size: 113, 109
-  orig: 113, 109
-  offset: 0, 0
-  index: -1
+bounds:1307,218,267,259
