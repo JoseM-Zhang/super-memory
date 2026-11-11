@@ -1,83 +1,35 @@
-
 schoolGirl01_SukebanSwim_SMG_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 264, 624
-  size: 92, 58
-  orig: 92, 58
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
+scale:1.58
 00_default
-  rotate: false
-  xy: 264, 624
-  size: 92, 58
-  orig: 92, 58
-  offset: 0, 0
-  index: -1
+bounds:1806,1655,302,190
+rotate:90
+01_normal
+bounds:1806,1655,302,190
+rotate:90
 02_respond
-  rotate: false
-  xy: 139, 785
-  size: 90, 73
-  orig: 90, 73
-  offset: 0, 0
-  index: -1
+bounds:1776,1325,297,242
+rotate:90
 03_smile
-  rotate: false
-  xy: 282, 164
-  size: 92, 58
-  orig: 92, 58
-  offset: 0, 0
-  index: -1
+bounds:1051,49,302,190
 04_embarassed
-  rotate: false
-  xy: 130, 921
-  size: 91, 80
-  orig: 91, 80
-  offset: 0, 0
-  index: -1
+bounds:1719,912,299,264
 05_serious
-  rotate: false
-  xy: 266, 11
-  size: 90, 62
-  orig: 90, 62
-  offset: 0, 0
-  index: -1
+bounds:1697,405,297,205
 06_depressed
-  rotate: false
-  xy: 269, 88
-  size: 90, 73
-  orig: 90, 73
-  offset: 0, 0
-  index: -1
+bounds:1692,640,297,242
 Glasses
-  rotate: false
-  xy: 134, 860
-  size: 116, 60
-  orig: 116, 60
-  offset: 0, 0
-  index: -1
+bounds:1088,269,381,196
 SchoolGirl01_SukebanSwim_SMG
-  rotate: false
-  xy: 2, 3
-  size: 347, 999
-  orig: 347, 999
-  offset: 0, 0
-  index: -1
+bounds:30,531,1107,1426
+offsets:27,1862,1141,3288
+SchoolGirl01_SukebanSwim_SMG_02
+bounds:786,30,1141,1927
+offsets:0,0,1141,3288
+rotate:180
 eye close
-  rotate: false
-  xy: 286, 684
-  size: 91, 54
-  orig: 91, 54
-  offset: 0, 0
-  index: -1
+bounds:1262,638,299,179
+rotate:90
 halo
-  rotate: true
-  xy: 249, 454
-  size: 169, 130
-  orig: 169, 130
-  offset: 0, 0
-  index: -1
+bounds:30,75,556,427

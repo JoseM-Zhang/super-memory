@@ -1,111 +1,38 @@
-
 NP0105_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 00_eye close
-  rotate: false
-  xy: 178, 24
-  size: 74, 76
-  orig: 74, 76
-  offset: 0, 0
-  index: -1
+bounds:885,613,174,179
 01_normal
-  rotate: false
-  xy: 372, 223
-  size: 78, 76
-  orig: 78, 76
-  offset: 0, 0
-  index: -1
+bounds:1863,1118,183,179
 default
-  rotate: false
-  xy: 372, 223
-  size: 78, 76
-  orig: 78, 76
-  offset: 0, 0
-  index: -1
+bounds:1863,1118,183,179
 02_respond
-  rotate: false
-  xy: 2, 540
-  size: 78, 85
-  orig: 78, 85
-  offset: 0, 0
-  index: -1
+bounds:1043,1336,183,200
 03_smile
-  rotate: false
-  xy: 405, 378
-  size: 74, 75
-  orig: 74, 75
-  offset: 0, 0
-  index: -1
+bounds:1836,939,174,177
 04_embarassed
-  rotate: false
-  xy: 352, 142
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
+bounds:1033,1148,183,186
 05_serious
-  rotate: false
-  xy: 387, 300
-  size: 78, 75
-  orig: 78, 75
-  offset: 0, 0
-  index: -1
+bounds:986,968,183,178
 06_depressed
-  rotate: false
-  xy: 2, 218
-  size: 74, 68
-  orig: 74, 68
-  offset: 0, 0
-  index: -1
+bounds:2,707,174,160
 07_embarassed_02
-  rotate: false
-  xy: 439, 567
-  size: 74, 68
-  orig: 74, 68
-  offset: 0, 0
-  index: -1
+bounds:1821,776,174,161
 08_serious_02
-  rotate: false
-  xy: 2, 287
-  size: 78, 80
-  orig: 78, 80
-  offset: 0, 0
-  index: -1
+bounds:2,1290,183,190
 09_depressed_02
-  rotate: false
-  xy: 434, 455
-  size: 74, 73
-  orig: 74, 73
-  offset: 0, 0
-  index: -1
+bounds:930,794,174,172
 Fronthair
-  rotate: false
-  xy: 2, 696
-  size: 48, 73
-  orig: 69, 73
-  offset: 21, 0
-  index: -1
+bounds:2,1635,114,173
+offsets:50,0,164,173
 NP0105
-  rotate: false
-  xy: 425, 44
-  size: 411, 726
-  orig: 458, 1354
-  offset: 47, 0
-  index: -1
+bounds:999,92,972,1716
+offsets:111,0,1083,3199
 NP01056
-  rotate: false
-  xy: 2, 106
-  size: 458, 664
-  orig: 458, 1354
-  offset: 0, 690
-  index: -1
+bounds:2,240,1083,1568
+offsets:0,1631,1083,3199
 halo
-  rotate: 270
-  xy: 2, 4
-  size: 184, 175
-  orig: 184, 175
-  offset: 0, 0
-  index: -1
+bounds:2,2,434,413
+rotate:270

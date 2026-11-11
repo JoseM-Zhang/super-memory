@@ -1,118 +1,54 @@
-
 izumi_swimsuit_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.05
 00_default
-  rotate: true
-  xy: 829, 718
-  size: 115, 82
-  orig: 115, 82
-  offset: 0, 0
-  index: -1
+bounds:2,17,241,172
 01_eyeclose
-  rotate: false
-  xy: 183, 331
-  size: 106, 88
-  orig: 107, 89
-  offset: 0, 0
-  index: -1
+bounds:738,571,223,183
+offsets:0,0,224,186
 02_nomal
-  rotate: false
-  xy: 800, 934
-  size: 115, 89
-  orig: 115, 89
-  offset: 0, 0
-  index: -1
+bounds:1851,210,241,186
+rotate:90
 03_respond
-  rotate: true
-  xy: 94, 78
-  size: 115, 91
-  orig: 115, 91
-  offset: 0, 0
-  index: -1
+bounds:765,64,241,190
 04_smile
-  rotate: true
-  xy: 2, 78
-  size: 115, 91
-  orig: 115, 91
-  offset: 0, 0
-  index: -1
+bounds:1851,696,241,190
+rotate:90
 05_embarassed
-  rotate: false
-  xy: 2, 927
-  size: 115, 95
-  orig: 115, 95
-  offset: 0, 0
-  index: -1
+bounds:2,1844,241,199
 06_serious
-  rotate: true
-  xy: 798, 386
-  size: 115, 90
-  orig: 115, 90
-  offset: 0, 0
-  index: -1
+bounds:1851,453,241,189
+rotate:90
 07_depressed
-  rotate: false
-  xy: 421, 413
-  size: 114, 104
-  orig: 114, 104
-  offset: 0, 0
-  index: -1
+bounds:1748,1425,239,217
+rotate:90
 08
-  rotate: false
-  xy: 683, 930
-  size: 115, 93
-  orig: 115, 93
-  offset: 0, 0
-  index: -1
+bounds:941,886,241,194
 09
-  rotate: false
-  xy: 2, 196
-  size: 115, 93
-  orig: 115, 93
-  offset: 0, 0
-  index: -1
+bounds:1764,939,241,194
+rotate:90
 10
-  rotate: false
-  xy: 748, 836
-  size: 115, 93
-  orig: 115, 93
-  offset: 0, 0
-  index: -1
+bounds:1789,1182,241,194
+rotate:90
 11
-  rotate: true
-  xy: 829, 539
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
+bounds:2,743,198,169
 Diorama_BG
-  rotate: false
-  xy: 2, 389
-  size: 838, 634
-  orig: 838, 635
-  offset: 0, 1
-  index: -1
+bounds:1017,809,771,1234
+offsets:989,2,1760,1332
+Diorama_BG_2
+bounds:2,714,1014,1329
+offsets:0,3,1760,1332
 front_hair
-  rotate: true
-  xy: 833, 264
-  size: 127, 98
-  orig: 127, 98
-  offset: 0, 0
-  index: -1
+bounds:1769,2,266,206
+rotate:180
 halo
-  rotate: false
-  xy: 2, 290
-  size: 180, 142
-  orig: 180, 142
-  offset: 0, 0
-  index: -1
+bounds:1582,1666,377,297
+rotate:90
 izumi_swimsuit
-  rotate: 270
-  xy: 202, 3
-  size: 410, 701
-  orig: 410, 701
-  offset: 0, 0
-  index: -1
+bounds:930,10,860,919
+offsets:0,552,861,1471
+rotate:90
+izumi_swimsuit_2
+bounds:2,181,839,581
+offsets:19,0,861,1471

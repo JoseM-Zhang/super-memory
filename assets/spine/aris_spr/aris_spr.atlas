@@ -1,63 +1,88 @@
 aris_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.51
+size:2048,2048
+filter:Linear,Linear
+scale:1.05
 00_default
-	bounds: 239, 48, 113, 84
+bounds:679,274,232,165
+offsets:0,7,232,172
 01_normal
-	bounds: 677, 51, 113, 84
+bounds:1241,77,232,163
+offsets:0,5,232,173
 02_respond
-	bounds: 792, 83, 113, 84
+bounds:1672,270,232,163
+offsets:0,5,232,173
 03_smile
-	bounds: 2, 931, 113, 91
+bounds:1162,308,232,176
+offsets:0,6,232,187
 04_embarassed
-	bounds: 114, 212, 113, 90
+bounds:1814,737,232,175
+offsets:0,5,232,186
 05_serious
-	bounds: 124, 111, 113, 84
+bounds:1350,208,232,169
+offsets:0,4,232,173
 06_depressed
-	bounds: 354, 49, 113, 83
+bounds:1814,142,232,161
+offsets:0,5,232,170
 07
-	bounds: 353, 134, 110, 92
+bounds:961,1774,227,178
+offsets:0,7,227,189
 08
-	bounds: 353, 228, 110, 93
+bounds:800,416,227,179
+offsets:0,6,227,191
 09
-	bounds: 2, 40, 111, 84
+bounds:913,267,229,160
+offsets:0,8,229,173
 10
-	bounds: 2, 261, 110, 93
+bounds:2,1290,227,179
+offsets:0,8,227,192
 11
-	bounds: 2, 126, 120, 84
+bounds:2,1793,248,159
+offsets:0,7,248,172
 12
-	bounds: 236, 197, 115, 124
+bounds:560,345,237,250
+offsets:0,6,237,256
 13
-	bounds: 2, 820, 109, 79
-	rotate: 90
+bounds:1560,142,225,148
+offsets:0,7,225,163
 14
-	bounds: 569, 944, 115, 78
+bounds:788,157,237,147
+offsets:0,8,237,161
 15
-	bounds: 117, 944, 115, 78
+bounds:1190,1805,237,147
+offsets:0,7,237,161
 16
-	bounds: 907, 116, 115, 83
+bounds:2,165,237,159
+offsets:0,6,237,171
 17
-	bounds: 119, 304, 115, 124
+bounds:1809,364,237,251
+offsets:0,5,237,256
 18
-	bounds: 309, 323, 115, 124
+bounds:1029,379,237,250
+offsets:0,6,237,256
 19
-	bounds: 2, 356, 115, 126
+bounds:1270,1156,237,252
+offsets:0,8,237,260
 Hair_Cover_02
-	bounds: 907, 697, 111, 94
-	offsets: 2, 3, 115, 99
+bounds:102,28,228,193
+offsets:4,6,237,205
 Halo
-	bounds: 826, 753, 140, 133
-	offsets: 2, 0, 143, 133
+bounds:2,1019,287,268
+offsets:4,6,295,274
 Halo_Blur
-	bounds: 848, 880, 149, 142
-	offsets: 1, 0, 152, 142
+bounds:1532,1659,307,293
+offsets:2,0,314,293
 aris
-	bounds: 2, 424, 846, 598
-	offsets: 2, 0, 965, 1028
+bounds:1471,867,575,770
+offsets:716,1338,1987,2116
 aris_1
-	bounds: 418, 34, 739, 604
-	offsets: 226, 421, 965, 1028
-	rotate: 270
+bounds:1188,345,722,870
+offsets:1259,1146,1987,2116
+aris_2
+bounds:2,596,1534,1356
+offsets:205,4,1987,2116
+aris_3
+bounds:2,2,729,971
+offsets:1,368,1987,2116
 eyeclose
-	bounds: 907, 30, 110, 84
+bounds:1067,164,227,162
+offsets:0,6,227,173

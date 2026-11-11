@@ -1,76 +1,79 @@
 misaki_spr.png
-size:1024,1024
+size:2048,2048
 filter:Linear,Linear
-scale:0.54
+scale:1.1
 00_default
-bounds:767,651,105,89
+bounds:550,167,215,182
 02_respond
-bounds:767,651,105,89
+bounds:550,167,215,182
 01_normal
-bounds:917,667,105,89
+bounds:333,169,215,182
 03_smile
-bounds:521,684,105,89
+bounds:1524,20,215,180
 04_embarassed
-bounds:2,638,105,87
+bounds:1363,702,213,178
 05_serious
-bounds:2,115,105,80
+bounds:333,4,215,163
 06_depressed
-bounds:109,114,105,80
+bounds:1235,1873,213,164
 07_cry
-bounds:216,113,103,80
+bounds:894,182,210,164
 07_smile 2
-bounds:737,141,102,85
-08_cry2
-bounds:321,112,101,80
-10_panic
-bounds:2,727,106,89
-10_panic_PL
-bounds:635,972,37,50
-10_panic_S
-bounds:275,1014,6,8
-11_endure 1_S
-bounds:275,1014,6,8
-12_endure 2_S
-bounds:275,1014,6,8
-11_endure 1
-bounds:557,577,107,85
-11_endure 1_SD
-bounds:604,129,131,106
-12_endure 2
-bounds:2,822,105,89
+bounds:917,587,208,173
 rotate:90
+08_cry2
+bounds:549,2,206,163
+10_panic
+bounds:2,1663,217,182
+10_panic_PL
+bounds:175,1372,75,101
+10_panic_S
+bounds:216,1626,12,15
+11_endure 1_S
+bounds:216,1626,12,15
+12_endure 2_S
+bounds:216,1626,12,15
+11_endure 1
+bounds:1304,73,218,173
+11_endure 1_SD
+bounds:2,1116,266,216
+12_endure 2
+bounds:1275,882,215,182
 13_shout
-bounds:2,929,106,93
+bounds:2,1847,217,190
 13_shout_S1
-bounds:152,1013,8,9
+bounds:216,1643,15,18
 13_shout_s2
-bounds:283,1015,6,7
+bounds:221,1945,13,14
 14_shout
-bounds:897,931,104,91
+bounds:2,1475,212,186
 14_shout_p1
-bounds:136,1011,14,11
+bounds:221,1961,29,22
 14_shout_p2
-bounds:110,997,24,25
+bounds:221,1985,50,52
 eyeclose
-bounds:424,103,104,89
+bounds:1737,111,212,182
 flush
-bounds:408,974,84,48
+bounds:2,1375,171,98
 fronthair
-bounds:369,730,161,161
+bounds:2,26,329,328
 halo
-bounds:711,817,184,205
-offsets:1,1,186,207
+bounds:1597,295,374,417
+offsets:2,2,378,421
 mask_defualt
-bounds:764,743,215,181
-offsets:1,0,216,181
+bounds:877,46,437,370
+offsets:2,0,440,370
 rotate:180
 mask_full
-bounds:384,512,216,171
-rotate:90
+bounds:808,1675,440,349
 misaki
-bounds:2,192,601,830
-offsets:365,0,966,1356
+bounds:2,346,1224,1691
+offsets:744,0,1968,2762
 misaki_00
-bounds:457,56,966,562
-offsets:0,794,966,1356
+bounds:700,714,1216,1147
+offsets:752,1615,1968,2762
 rotate:90
+misaki_00_2
+bounds:998,248,914,598
+offsets:0,2091,1968,2762
+rotate:270

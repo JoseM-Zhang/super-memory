@@ -1,27 +1,12 @@
-
 NP0104_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.26
 NP0104
-  rotate: false
-  xy: 2, 3
-  size: 416, 787
-  orig: 479, 1368
-  offset: 63, 0
-  index: -1
+bounds:2,2,888,1982
+offsets:231,0,1207,3447
 NP01045
-  rotate: 180
-  xy: 389, 160
-  size: 479, 630
-  orig: 479, 1368
-  offset: 0, 738
-  index: -1
+bounds:824,399,1207,1585
+offsets:0,1862,1207,3447
 eye light
-  rotate: false
-  xy: 404, 552
-  size: 21, 33
-  orig: 21, 33
-  offset: 0, 0
-  index: -1
+bounds:876,1901,53,83

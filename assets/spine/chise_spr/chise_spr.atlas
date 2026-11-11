@@ -1,104 +1,45 @@
-
 chise_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
 00_default
-  rotate: false
-  xy: 690, 933
-  size: 91, 74
-  orig: 91, 74
-  offset: 0, 0
-  index: -1
+bounds:1469,1745,238,193
 01_nomal
-  rotate: false
-  xy: 328, 937
-  size: 91, 70
-  orig: 91, 70
-  offset: 0, 0
-  index: -1
+bounds:1559,1487,238,183
 02_respond
-  rotate: false
-  xy: 869, 933
-  size: 91, 74
-  orig: 91, 74
-  offset: 0, 0
-  index: -1
+bounds:367,185,238,193
 03_smile2
-  rotate: false
-  xy: 67, 944
-  size: 84, 63
-  orig: 84, 63
-  offset: 0, 0
-  index: -1
+bounds:351,1874,220,165
 04_embarrass
-  rotate: false
-  xy: 598, 934
-  size: 90, 73
-  orig: 90, 73
-  offset: 0, 0
-  index: -1
+bounds:329,1671,235,190
 05_serious
-  rotate: false
-  xy: 2, 866
-  size: 88, 76
-  orig: 88, 76
-  offset: 0, 0
-  index: -1
+bounds:915,479,231,200
 06_despressed
-  rotate: false
-  xy: 783, 933
-  size: 84, 74
-  orig: 84, 74
-  offset: 0, 0
-  index: -1
+bounds:870,1665,221,193
 07_smile3
-  rotate: false
-  xy: 153, 939
-  size: 90, 68
-  orig: 90, 68
-  offset: 0, 0
-  index: -1
+bounds:1325,1862,235,177
 08_embarrass2
-  rotate: false
-  xy: 245, 938
-  size: 81, 69
-  orig: 81, 69
-  offset: 0, 0
-  index: -1
+bounds:869,1861,211,178
+offsets:0,4,211,182
 09_embarrass3
-  rotate: false
-  xy: 511, 936
-  size: 85, 71
-  orig: 85, 71
-  offset: 0, 0
-  index: -1
+bounds:1439,1319,222,185
 chise
-  rotate: true
-  xy: 2, 90
-  size: 711, 1005
-  orig: 711, 1005
-  offset: 0, 0
-  index: -1
+bounds:778,662,953,1097
+offsets:351,1535,1862,2632
+chise_2
+bounds:63,80,444,1479
+offsets:0,719,1862,2632
+rotate:270
+chise_3
+bounds:2,341,918,1698
+offsets:200,0,1862,2632
+chise_4
+bounds:1156,293,877,1100
+offsets:985,496,1862,2632
+rotate:180
 eyeclose
-  rotate: false
-  xy: 421, 937
-  size: 88, 70
-  orig: 88, 70
-  offset: 0, 0
-  index: -1
+bounds:1093,1856,230,183
 halo
-  rotate: true
-  xy: 92, 803
-  size: 133, 160
-  orig: 133, 160
-  offset: 0, 0
-  index: -1
+bounds:1697,2,349,418
 object_fronthair
-  rotate: false
-  xy: 2, 980
-  size: 63, 27
-  orig: 63, 27
-  offset: 0, 0
-  index: -1
+bounds:2,1967,166,72

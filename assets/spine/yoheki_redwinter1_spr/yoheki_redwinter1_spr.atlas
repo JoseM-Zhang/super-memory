@@ -1,34 +1,17 @@
-
 yoheki_redwinter1_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 halo
-  rotate: true
-  xy: 468, 577
-  size: 162, 74
-  orig: 162, 74
-  offset: 0, 0
-  index: -1
+bounds:983,1306,406,185
 mask_1
-  rotate: true
-  xy: 463, 864
-  size: 117, 73
-  orig: 117, 73
-  offset: 0, 0
-  index: -1
+bounds:1715,1125,293,182
 mask_2
-  rotate: true
-  xy: 479, 741
-  size: 120, 73
-  orig: 120, 73
-  offset: 0, 0
-  index: -1
+bounds:1583,1309,300,182
 yoheki_redwinter1
-  rotate: false
-  xy: 2, 3
-  size: 553, 1002
-  orig: 553, 1002
-  offset: 0, 0
-  index: -1
+bounds:663,2,1383,1325
+offsets:0,1180,1383,2505
+rotate:180
+yoheki_redwinter1_2
+bounds:2,179,1069,1312
+offsets:121,0,1383,2505

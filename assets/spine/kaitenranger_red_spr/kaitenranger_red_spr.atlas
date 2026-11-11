@@ -1,20 +1,9 @@
-
 kaitenranger_red_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
 halo
-  rotate: false
-  xy: 2, 892
-  size: 214, 72
-  orig: 214, 72
-  offset: 0, 0
-  index: -1
+bounds:1638,1525,436,146
+rotate:90
 kaitenranger_red
-  rotate: true
-  xy: 2, 88
-  size: 802, 962
-  orig: 802, 962
-  offset: 0, 0
-  index: -1
+bounds:2,2,1634,1959

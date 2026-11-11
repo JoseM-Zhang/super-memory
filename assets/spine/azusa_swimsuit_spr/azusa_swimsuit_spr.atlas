@@ -1,51 +1,65 @@
 azusa_swimsuit_spr.png
-	size: 2048, 2048
-	filter: Linear, Linear
-	scale: 0.9
+size:2048,2048
+filter:Linear,Linear
 00_default
-	bounds: 2, 1622, 174, 166
-	offsets: 9, 9, 192, 184
+bounds:275,103,193,184
+offsets:10,10,213,204
 01_normal
-	bounds: 2, 1790, 192, 184
+bounds:1680,1827,213,204
 02_respond
-	bounds: 1420, 1597, 172, 161
-	offsets: 9, 9, 190, 178
+bounds:1320,107,191,178
+offsets:10,10,211,198
 03_smile
-	bounds: 1705, 1566, 170, 161
-	offsets: 8, 9, 186, 179
+bounds:2,1463,187,179
+offsets:10,10,207,199
 04_embarrass
-	bounds: 1579, 1897, 163, 149
-	offsets: 9, 9, 181, 167
+bounds:1137,19,181,165
+offsets:10,10,201,185
 05_serious
-	bounds: 1877, 1575, 164, 152
-	offsets: 9, 8, 182, 169
+bounds:1803,33,182,168
+offsets:10,10,202,188
 06_embarrassed
-	bounds: 1872, 1904, 170, 142
-	offsets: 9, 9, 188, 160
+bounds:1513,2,189,158
+offsets:10,10,209,178
 07_embarrass2
-	bounds: 144, 1120, 164, 151
-	offsets: 9, 9, 182, 169
+bounds:470,37,182,168
+offsets:10,10,202,188
 08_ashamed
-	bounds: 1850, 1729, 196, 169
-	offsets: 13, 9, 218, 187
+bounds:1126,1129,222,188
+offsets:10,10,242,208
 Diorama _BG
-	bounds: 310, 87, 772, 1247
+bounds:1196,144,396,704
+offsets:0,227,858,1385
+rotate:270
 Diorama _BG_1
-	bounds: 1557, 1698, 313, 348
-	offsets: 1, 2, 314, 350
+bounds:838,172,348,387
+offsets:1,2,349,389
+rotate:90
+Diorama _BG_2
+bounds:1804,1170,183,242
+offsets:0,0,858,1385
+rotate:270
+Diorama _BG_3
+bounds:2,1643,259,324
+offsets:246,227,858,1385
+Diorama _BG_4
+bounds:1319,1160,727,740
+offsets:131,645,858,1385
 Halo
-	bounds: 1303, 1745, 274, 301
-	offsets: 3, 2, 281, 303
+bounds:681,37,305,334
+offsets:3,3,312,337
+rotate:270
 azusa_swimsuit_1
-	bounds: 2, 1212, 1307, 834
-	offsets: 63, 787, 1653, 1621
+bounds:2,1105,1452,926
+offsets:71,875,1837,1801
 azusa_swimsuit_2
-	bounds: 889, 27, 1016, 742
-	offsets: 0, 51, 1653, 1621
-	rotate: 180
+bounds:918,445,1128,825
+offsets:0,56,1837,1801
+rotate:180
 azusa_swimsuit_3
-	bounds: 687, 767, 1359, 823
-	offsets: 294, 1, 1653, 1621
+bounds:2,206,1510,915
+offsets:327,1,1837,1801
+rotate:180
 eyeclose
-	bounds: 1245, 1533, 173, 155
-	offsets: 9, 9, 191, 173
+bounds:2,101,192,172
+offsets:10,10,212,192

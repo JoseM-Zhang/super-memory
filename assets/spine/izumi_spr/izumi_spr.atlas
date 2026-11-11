@@ -1,37 +1,70 @@
 izumi_spr.png
-	size: 2048, 2048
-	filter: Linear, Linear
+size:2048,2048
+filter:Linear,Linear
+scale:0.98
 00_default
-	bounds: 1565, 1215, 202, 178
+bounds:392,512,200,176
+offsets:9,9,218,194
 01_eyeclose
-	bounds: 909, 1837, 192, 209
+bounds:194,734,188,205
+01_nomal
+bounds:1308,1120,205,216
+offsets:5,5,217,224
 02_nomal
-	bounds: 464, 1837, 201, 209
+bounds:2,1328,197,205
+02_respond
+bounds:576,690,196,190
+offsets:9,10,214,209
+03
+bounds:966,516,175,177
+offsets:9,9,193,195
 03_respond
-	bounds: 1488, 1642, 198, 193
+bounds:2,543,194,189
+04
+bounds:2,746,185,189
+offsets:9,9,203,207
 04_smile
-	bounds: 1152, 1440, 177, 179
+bounds:594,513,173,175
+05
+bounds:1785,1307,197,202
+offsets:9,10,215,221
 05_embarrass
-	bounds: 2, 700, 187, 191
-	offsets: 0, 0, 187, 268
+bounds:1725,1511,183,263
+06
+bounds:419,926,192,202
+offsets:9,10,210,221
 06_serious
-	bounds: 1689, 1653, 199, 206
+bounds:222,941,195,202
+07
+bounds:150,1535,197,205
+offsets:9,10,215,224
 07_depressed
-	bounds: 464, 1629, 194, 206
+bounds:384,722,190,202
+08
+bounds:198,531,192,189
+offsets:9,9,210,207
 08_
-	bounds: 1488, 1837, 199, 209
+bounds:201,1328,195,205
+09
+bounds:2,1144,218,182
+offsets:10,10,238,201
 09_
-	bounds: 1574, 1449, 194, 191
+bounds:774,531,190,187
 10
-	bounds: 1689, 1861, 223, 185
+bounds:222,1145,219,181
+99
+bounds:2,937,190,205
+offsets:9,10,208,224
 halo
-	bounds: 1108, 1621, 378, 425
+bounds:1356,1593,378,423
+offsets:7,7,390,436
 izumi
-	bounds: 893, 46, 1455, 1153
-	offsets: 0, 1110, 1861, 2263
-	rotate: 90
+bounds:2,855,1463,1161
+offsets:6,1076,1843,2237
 izumi_1
-	bounds: 2, 886, 1571, 1160
-	offsets: 290, 0, 1861, 2263
+bounds:891,2,1545,1155
+offsets:298,0,1843,2237
+rotate:270
 object_fronthair
-	bounds: 2, 1803, 260, 243
+bounds:1735,1776,246,240
+offsets:10,9,265,258

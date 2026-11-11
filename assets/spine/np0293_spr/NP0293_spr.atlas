@@ -45,9 +45,8 @@ rotate:90
 bounds:1638,862,270,181
 offsets:12,12,294,205
 12_embrassed_03
-bounds:885,1259,260,157
+bounds:2,40,260,157
 offsets:12,12,284,181
-rotate:90
 13
 bounds:1812,601,259,173
 offsets:12,12,283,197
@@ -59,6 +58,10 @@ rotate:90
 15
 bounds:390,1114,270,174
 offsets:12,12,294,198
+rotate:90
+16_etc
+bounds:1776,83,255,170
+offsets:12,12,279,194
 rotate:90
 NP0293
 bounds:838,516,991,1524

@@ -1,34 +1,23 @@
-
 NP0103_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.04
 NP0103
-  rotate: true
-  xy: 386, 4
-  size: 512, 575
-  orig: 813, 1235
-  offset: 57, 660
-  index: -1
+bounds:869,117,843,783
+offsets:369,1892,1761,2675
+rotate:90
 NP01034
-  rotate: false
-  xy: 2, 301
-  size: 795, 711
-  orig: 813, 1235
-  offset: 0, 0
-  index: -1
+bounds:1376,502,515,1447
+offsets:0,478,1761,2675
+rotate:180
+NP01035
+bounds:2,2,959,719
+offsets:360,1193,1761,2675
+rotate:180
+NP01036
+bounds:2,719,1483,1230
+offsets:224,0,1761,2675
 halo_1
-  rotate: false
-  xy: 345, 851
-  size: 159, 161
-  orig: 159, 161
-  offset: 0, 0
-  index: -1
+bounds:502,1379,345,349
 halo_2
-  rotate: false
-  xy: 2, 137
-  size: 210, 180
-  orig: 210, 180
-  offset: 0, 0
-  index: -1
+bounds:1582,7,454,391

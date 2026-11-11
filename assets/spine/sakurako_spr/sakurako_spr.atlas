@@ -1,146 +1,55 @@
-
 sakurako_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
 01_nomal
-  rotate: true
-  xy: 460, 80
-  size: 127, 74
-  orig: 127, 74
-  offset: 0, 0
-  index: -1
+bounds:272,4,268,156
 02_respond
-  rotate: false
-  xy: 129, 47
-  size: 127, 74
-  orig: 127, 74
-  offset: 0, 0
-  index: -1
+bounds:1157,159,268,157
+rotate:90
 03_smile
-  rotate: true
-  xy: 915, 876
-  size: 118, 77
-  orig: 118, 77
-  offset: 0, 0
-  index: -1
+bounds:2,326,250,164
 04_embarassed
-  rotate: true
-  xy: 2, 428
-  size: 127, 73
-  orig: 127, 73
-  offset: 0, 0
-  index: -1
+bounds:1316,4,268,155
 05_serious
-  rotate: false
-  xy: 330, 71
-  size: 127, 84
-  orig: 127, 84
-  offset: 0, 0
-  index: -1
+bounds:848,170,270,178
 06_despressed
-  rotate: true
-  xy: 918, 569
-  size: 119, 73
-  orig: 119, 73
-  offset: 0, 0
-  index: -1
+bounds:903,2,252,155
 07
-  rotate: false
-  xy: 608, 345
-  size: 127, 77
-  orig: 127, 77
-  offset: 0, 0
-  index: -1
+bounds:2,150,268,164
 08
-  rotate: false
-  xy: 787, 821
-  size: 126, 116
-  orig: 126, 116
-  offset: 0, 0
-  index: -1
+bounds:2,1075,266,245
 09
-  rotate: false
-  xy: 2, 79
-  size: 126, 112
-  orig: 126, 112
-  offset: 0, 0
-  index: -1
+bounds:1316,197,266,237
 10
-  rotate: false
-  xy: 712, 73
-  size: 127, 83
-  orig: 127, 83
-  offset: 0, 0
-  index: -1
+bounds:1434,930,270,176
+rotate:90
 11
-  rotate: true
-  xy: 903, 691
-  size: 127, 73
-  orig: 127, 73
-  offset: 0, 0
-  index: -1
+bounds:1891,83,270,155
+rotate:90
 12
-  rotate: true
-  xy: 2, 591
-  size: 127, 80
-  orig: 127, 80
-  offset: 0, 0
-  index: -1
+bounds:1584,161,268,169
 13
-  rotate: true
-  xy: 650, 425
-  size: 127, 75
-  orig: 127, 75
-  offset: 0, 0
-  index: -1
+bounds:1888,496,268,158
+rotate:90
 Sakurako
-  rotate: false
-  xy: 2, 208
-  size: 788, 788
-  orig: 788, 1353
-  offset: 0, 565
-  index: -1
+bounds:2,349,1667,1679
+offsets:0,1182,1667,2861
 Sakurako2
-  rotate: false
-  xy: 726, 210
-  size: 209, 609
-  orig: 788, 1353
-  offset: 346, 0
-  index: -1
+bounds:1591,740,441,1288
+offsets:733,0,1667,2861
+Sakurako3
+bounds:1239,323,594,666
+offsets:48,2055,1667,2861
+rotate:270
 default
-  rotate: true
-  xy: 842, 91
-  size: 127, 74
-  orig: 127, 74
-  offset: 0, 0
-  index: -1
+bounds:633,12,268,156
 eyeclose
-  rotate: true
-  xy: 918, 104
-  size: 119, 74
-  orig: 119, 74
-  offset: 0, 0
-  index: -1
+bounds:1586,3,252,156
 front_hair
-  rotate: false
-  xy: 26, 863
-  size: 157, 131
-  orig: 157, 131
-  offset: 0, 0
-  index: -1
+bounds:29,1751,331,277
 halo_01
-  rotate: 180
-  xy: 96, 124
-  size: 294, 224
-  orig: 294, 224
-  offset: 0, 0
-  index: -1
+bounds:2,492,622,473
 halo_02
-  rotate: 270
-  xy: 542, 63
-  size: 280, 207
-  orig: 280, 207
-  offset: 0, 0
-  index: -1
+bounds:254,162,593,439
+rotate:180

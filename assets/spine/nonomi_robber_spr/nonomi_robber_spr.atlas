@@ -1,97 +1,38 @@
-
 nonomi_robber_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
 00_default
-  rotate: true
-  xy: 728, 86
-  size: 107, 77
-  orig: 107, 77
-  offset: 0, 0
-  index: -1
+bounds:1431,986,273,197
 01_normal
-  rotate: false
-  xy: 620, 140
-  size: 107, 80
-  orig: 107, 80
-  offset: 0, 0
-  index: -1
+bounds:733,1072,273,204
 02_respond
-  rotate: false
-  xy: 620, 222
-  size: 107, 80
-  orig: 107, 80
-  offset: 0, 0
-  index: -1
+bounds:2,1433,273,205
 03_smile
-  rotate: false
-  xy: 620, 462
-  size: 107, 83
-  orig: 107, 83
-  offset: 0, 0
-  index: -1
+bounds:2,1640,274,211
 04_embarassed
-  rotate: false
-  xy: 620, 59
-  size: 107, 79
-  orig: 107, 79
-  offset: 0, 0
-  index: -1
+bounds:1427,1240,273,201
 05_serious
-  rotate: true
-  xy: 728, 195
-  size: 107, 78
-  orig: 107, 78
-  offset: 0, 0
-  index: -1
+bounds:517,384,273,199
 06_shout
-  rotate: true
-  xy: 739, 304
-  size: 107, 77
-  orig: 107, 77
-  offset: 0, 0
-  index: -1
+bounds:1560,1443,273,196
 eyeclose
-  rotate: false
-  xy: 620, 303
-  size: 107, 80
-  orig: 107, 80
-  offset: 0, 0
-  index: -1
+bounds:2,1227,274,204
 halo 1
-  rotate: true
-  xy: 620, 748
-  size: 229, 179
-  orig: 229, 179
-  offset: 0, 0
-  index: -1
+bounds:1003,525,586,459
 halo 2
-  rotate: true
-  xy: 739, 412
-  size: 92, 76
-  orig: 92, 76
-  offset: 0, 0
-  index: -1
+bounds:1612,1641,234,194
 nonomi_robber
-  rotate: false
-  xy: 2, 2
-  size: 616, 975
-  orig: 616, 975
-  offset: 0, 0
-  index: -1
+bounds:753,985,908,1061
+offsets:73,1434,1576,2495
+nonomi_robber_2
+bounds:2,584,1000,1462
+offsets:0,0,1576,2495
+nonomi_robber_3
+bounds:1162,2,876,772
+offsets:700,352,1576,2495
 object_fronthair
-  rotate: false
-  xy: 620, 385
-  size: 117, 75
-  orig: 117, 75
-  offset: 0, 0
-  index: -1
+bounds:2,1853,300,193
 object_mask
-  rotate: false
-  xy: 620, 546
-  size: 187, 200
-  orig: 187, 200
-  offset: 0, 0
-  index: -1
+bounds:2,106,477,513
+rotate:90

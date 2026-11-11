@@ -1,139 +1,52 @@
-
 kazusa_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 01_nomal
-  rotate: true
-  xy: 646, 915
-  size: 104, 91
-  orig: 104, 91
-  offset: 0, 0
-  index: -1
+bounds:1645,346,246,214
 default
-  rotate: true
-  xy: 646, 915
-  size: 104, 91
-  orig: 104, 91
-  offset: 0, 0
-  index: -1
+bounds:1645,346,246,214
 02_respond
-  rotate: true
-  xy: 608, 179
-  size: 104, 92
-  orig: 104, 92
-  offset: 0, 0
-  index: -1
+bounds:1502,772,246,218
 03_smile
-  rotate: true
-  xy: 655, 391
-  size: 105, 84
-  orig: 105, 84
-  offset: 0, 0
-  index: -1
+bounds:1645,145,247,199
 04_embarassed
-  rotate: true
-  xy: 666, 498
-  size: 96, 85
-  orig: 96, 85
-  offset: 0, 0
-  index: -1
+bounds:2,66,227,202
 05_serious
-  rotate: true
-  xy: 643, 285
-  size: 105, 91
-  orig: 105, 91
-  offset: 0, 0
-  index: -1
+bounds:1750,562,247,216
 06_depressed
-  rotate: false
-  xy: 424, 936
-  size: 105, 83
-  orig: 105, 83
-  offset: 0, 0
-  index: -1
+bounds:2,568,247,195
+rotate:90
 07
-  rotate: true
-  xy: 671, 818
-  size: 95, 85
-  orig: 95, 85
-  offset: 0, 0
-  index: -1
+bounds:2,341,225,200
+rotate:90
 08
-  rotate: false
-  xy: 565, 751
-  size: 104, 101
-  orig: 104, 101
-  offset: 0, 0
-  index: -1
+bounds:2,817,246,239
 09
-  rotate: false
-  xy: 404, 477
-  size: 104, 101
-  orig: 104, 101
-  offset: 0, 0
-  index: -1
+bounds:966,1025,246,239
 10
-  rotate: false
-  xy: 2, 480
-  size: 125, 118
-  orig: 125, 118
-  offset: 0, 0
-  index: -1
+bounds:1750,780,296,278
 11
-  rotate: false
-  xy: 534, 884
-  size: 109, 134
-  orig: 109, 134
-  offset: 0, 0
-  index: -1
+bounds:1322,1669,259,317
 12
-  rotate: false
-  xy: 2, 600
-  size: 126, 118
-  orig: 126, 118
-  offset: 0, 0
-  index: -1
+bounds:2,1058,298,278
 13
-  rotate: true
-  xy: 671, 721
-  size: 94, 83
-  orig: 94, 83
-  offset: 0, 0
-  index: -1
+bounds:543,2,222,195
 eyeclose
-  rotate: false
-  xy: 648, 86
-  size: 92, 91
-  orig: 92, 91
-  offset: 0, 0
-  index: -1
+bounds:323,57,218,214
 front_hair
-  rotate: false
-  xy: 2, 394
-  size: 100, 83
-  orig: 100, 83
-  offset: 0, 0
-  index: -1
+bounds:1811,13,235,196
 halo
-  rotate: false
-  xy: 299, 284
-  size: 162, 193
-  orig: 165, 199
-  offset: 0, 1
-  index: -1
+bounds:1206,1193,383,453
+offsets:0,4,390,469
 kazusa
-  rotate: false
-  xy: 33, 4
-  size: 652, 746
-  orig: 830, 1326
-  offset: 0, 0
-  index: -1
+bounds:905,445,1541,1042
+offsets:0,722,1962,3134
+rotate:270
 kazusa2
-  rotate: false
-  xy: 2, 397
-  size: 563, 622
-  orig: 830, 1326
-  offset: 267, 704
-  index: -1
+bounds:2,581,1320,1405
+offsets:642,1729,1962,3134
+kazusa3
+bounds:212,89,623,1432
+offsets:914,0,1962,3134
+rotate:90

@@ -1,153 +1,55 @@
-
 serika_newyear_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 722, 113
-  size: 124, 97
-  orig: 124, 97
-  offset: 0, 0
-  index: -1
-02_respond
-  rotate: false
-  xy: 2, 99
-  size: 124, 94
-  orig: 124, 94
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
 00_default
-  rotate: false
-  xy: 2, 99
-  size: 124, 94
-  orig: 124, 94
-  offset: 0, 0
-  index: -1
+bounds:1431,205,270,205
+02_respond
+bounds:1431,205,270,205
+01_normal
+bounds:1159,209,270,211
 03_smile
-  rotate: false
-  xy: 7, 4
-  size: 118, 94
-  orig: 118, 94
-  offset: 0, 0
-  index: -1
+bounds:1046,2,258,204
 04_embarrassed
-  rotate: false
-  xy: 898, 125
-  size: 123, 98
-  orig: 123, 98
-  offset: 0, 0
-  index: -1
+bounds:1832,1162,269,214
+rotate:90
 05_serious
-  rotate: false
-  xy: 619, 22
-  size: 124, 89
-  orig: 124, 89
-  offset: 0, 0
-  index: -1
+bounds:592,97,270,193
+rotate:270
 06
-  rotate: false
-  xy: 3, 196
-  size: 124, 100
-  orig: 124, 100
-  offset: 0, 0
-  index: -1
+bounds:1734,410,270,217
+rotate:180
 07
-  rotate: false
-  xy: 581, 115
-  size: 138, 98
-  orig: 138, 98
-  offset: 0, 0
-  index: -1
+bounds:1159,422,301,214
 08
-  rotate: true
-  xy: 891, 421
-  size: 124, 100
-  orig: 124, 100
-  offset: 0, 0
-  index: -1
+bounds:1462,413,270,217
 09
-  rotate: true
-  xy: 857, 667
-  size: 144, 142
-  orig: 144, 142
-  offset: 0, 0
-  index: -1
+bounds:843,410,313,310
 10
-  rotate: false
-  xy: 847, 546
-  size: 142, 119
-  orig: 142, 119
-  offset: 0, 0
-  index: -1
+bounds:2,391,310,260
 11
-  rotate: false
-  xy: 847, 33
-  size: 123, 91
-  orig: 123, 91
-  offset: 0, 0
-  index: -1
+bounds:2,190,269,198
 12
-  rotate: false
-  xy: 136, 4
-  size: 124, 86
-  orig: 124, 86
-  offset: 0, 0
-  index: -1
+bounds:1703,17,270,188
 13
-  rotate: false
-  xy: 492, 24
-  size: 125, 89
-  orig: 125, 89
-  offset: 0, 0
-  index: -1
+bounds:300,173,274,193
 14
-  rotate: false
-  xy: 366, 56
-  size: 124, 92
-  orig: 124, 92
-  offset: 0, 0
-  index: -1
+bounds:1776,208,270,200
 Hair_Cover
-  rotate: true
-  xy: 426, 218
-  size: 130, 65
-  orig: 130, 65
-  offset: 0, 0
-  index: -1
+bounds:2,683,271,130
+offsets:6,6,283,142
 Halo_01
-  rotate: false
-  xy: 372, 149
-  size: 207, 66
-  orig: 207, 66
-  offset: 0, 0
-  index: -1
+bounds:1864,1497,439,132
+offsets:6,6,451,144
+rotate:90
 Halo_02
-  rotate: false
-  xy: 2, 781
-  size: 84, 29
-  orig: 84, 29
-  offset: 0, 0
-  index: -1
+bounds:2,1884,172,52
+offsets:5,6,182,64
 eyeclosed
-  rotate: true
-  xy: 924, 228
-  size: 117, 97
-  orig: 117, 97
-  offset: 0, 0
-  index: -1
+bounds:788,196,256,212
 serika_newyear
-  rotate: false
-  xy: 2, 91
-  size: 532, 721
-  orig: 532, 1253
-  offset: 0, 532
-  index: -1
+bounds:2,364,1160,1572
+offsets:0,1161,1160,2735
 serika_newyear_copy
-  rotate: false
-  xy: 468, 210
-  size: 455, 601
-  orig: 532, 1253
-  offset: 33, 0
-  index: -1
+bounds:1015,626,993,1310
+offsets:72,0,1160,2735

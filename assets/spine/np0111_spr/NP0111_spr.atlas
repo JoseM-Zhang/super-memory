@@ -1,146 +1,50 @@
-
 NP0111_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 0
-  rotate: false
-  xy: 258, 25
-  size: 124, 93
-  orig: 124, 93
-  offset: 0, 0
-  index: -1
+bounds:1179,700,268,202
 1
-  rotate: false
-  xy: 258, 25
-  size: 124, 93
-  orig: 124, 93
-  offset: 0, 0
-  index: -1
+bounds:1179,700,268,202
 10
-  rotate: true
-  xy: 652, 586
-  size: 123, 80
-  orig: 123, 80
-  offset: 0, 0
-  index: -1
+bounds:879,408,267,173
 11
-  rotate: false
-  xy: 234, 890
-  size: 146, 103
-  orig: 146, 103
-  offset: 0, 0
-  index: -1
+bounds:1333,1197,316,222
 12
-  rotate: false
-  xy: 492, 838
-  size: 122, 130
-  orig: 122, 130
-  offset: 0, 0
-  index: -1
+bounds:1781,1278,265,281
 13
-  rotate: true
-  xy: 625, 185
-  size: 122, 87
-  orig: 122, 87
-  offset: 0, 0
-  index: -1
+bounds:1711,481,264,189
 14
-  rotate: false
-  xy: 384, 25
-  size: 120, 93
-  orig: 120, 93
-  offset: 0, 0
-  index: -1
+bounds:1449,659,260,202
 2
-  rotate: true
-  xy: 527, 431
-  size: 124, 95
-  orig: 124, 95
-  offset: 0, 0
-  index: -1
+bounds:1651,1069,268,207
 3
-  rotate: true
-  xy: 525, 98
-  size: 120, 98
-  orig: 120, 98
-  offset: 0, 0
-  index: -1
+bounds:1187,983,260,212
 4
-  rotate: true
-  xy: 616, 869
-  size: 123, 87
-  orig: 123, 87
-  offset: 0, 0
-  index: -1
+bounds:1711,672,267,189
 5
-  rotate: true
-  xy: 556, 557
-  size: 124, 94
-  orig: 124, 94
-  offset: 0, 0
-  index: -1
+bounds:1719,863,268,204
 6
-  rotate: true
-  xy: 629, 316
-  size: 122, 84
-  orig: 122, 84
-  offset: 0, 0
-  index: -1
+bounds:612,400,265,182
 7
-  rotate: false
-  xy: 506, 3
-  size: 120, 93
-  orig: 120, 93
-  offset: 0, 0
-  index: -1
+bounds:1786,1667,260,202
 8
-  rotate: true
-  xy: 557, 712
-  size: 124, 94
-  orig: 124, 94
-  offset: 0, 0
-  index: -1
+bounds:1449,863,268,204
 9
-  rotate: true
-  xy: 628, 59
-  size: 124, 85
-  orig: 124, 85
-  offset: 0, 0
-  index: -1
+bounds:1422,474,268,183
 NP0111
-  rotate: false
-  xy: 2, 119
-  size: 281, 874
-  orig: 323, 1466
-  offset: 0, 0
-  index: -1
+bounds:2,2,609,1893
+offsets:0,0,699,3177
 NP01112
-  rotate: false
-  xy: 232, 277
-  size: 323, 606
-  orig: 323, 1466
-  offset: 0, 860
-  index: -1
+bounds:508,582,699,1313
+offsets:0,1864,699,3177
+rotate:180
 close
-  rotate: true
-  xy: 624, 440
-  size: 115, 93
-  orig: 115, 93
-  offset: 0, 0
-  index: -1
+bounds:1172,496,248,202
 front hair
-  rotate: 270
-  xy: 461, 210
-  size: 220, 166
-  orig: 226, 200
-  offset: 2, 21
-  index: -1
+bounds:1504,1419,476,358
+offsets:5,46,490,434
+rotate:90
 halo
-  rotate: false
-  xy: 283, 120
-  size: 240, 154
-  orig: 240, 154
-  offset: 0, 0
-  index: -1
+bounds:1167,1375,520,334
+rotate:90

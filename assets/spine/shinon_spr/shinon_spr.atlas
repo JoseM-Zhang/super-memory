@@ -1,97 +1,33 @@
-
 shinon_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 00_default
-  rotate: false
-  xy: 548, 141
-  size: 122, 107
-  orig: 122, 107
-  offset: 0, 0
-  index: -1
+bounds:1768,1518,281,244
+rotate:90
 01_normal
-  rotate: false
-  xy: 706, 44
-  size: 122, 95
-  orig: 122, 95
-  offset: 0, 0
-  index: -1
+bounds:1626,122,281,217
 02_respond
-  rotate: false
-  xy: 672, 250
-  size: 122, 104
-  orig: 122, 104
-  offset: 0, 0
-  index: -1
+bounds:1537,341,281,238
 03_smile
-  rotate: false
-  xy: 435, 250
-  size: 130, 101
-  orig: 130, 101
-  offset: 0, 0
-  index: -1
+bounds:1565,581,299,230
 04_embarrass
-  rotate: false
-  xy: 672, 142
-  size: 119, 106
-  orig: 119, 106
-  offset: 0, 0
-  index: -1
+bounds:2,229,274,242
 05_serious
-  rotate: false
-  xy: 2, 94
-  size: 122, 105
-  orig: 122, 105
-  offset: 0, 0
-  index: -1
+bounds:1023,399,281,240
 06_depressed
-  rotate: false
-  xy: 363, 40
-  size: 126, 94
-  orig: 126, 94
-  offset: 0, 0
-  index: -1
+bounds:1334,126,290,213
 07
-  rotate: false
-  xy: 126, 16
-  size: 118, 94
-  orig: 118, 94
-  offset: 0, 0
-  index: -1
+bounds:921,2,272,214
 08
-  rotate: false
-  xy: 414, 135
-  size: 132, 112
-  orig: 132, 112
-  offset: 0, 0
-  index: -1
+bounds:2,1542,304,257
 Layer 0_00
-  rotate: 180
-  xy: 482, 316
-  size: 330, 537
-  orig: 331, 537
-  offset: 0, 0
-  index: -1
+bounds:1127,537,771,1262
+offsets:1,0,775,1262
+rotate:180
 eyeclose
-  rotate: true
-  xy: 757, 735
-  size: 119, 95
-  orig: 119, 95
-  offset: 0, 0
-  index: -1
+bounds:2,10,273,217
 halo
-  rotate: false
-  xy: 548, 59
-  size: 156, 79
-  orig: 156, 79
-  offset: 0, 0
-  index: -1
+bounds:972,218,360,179
 shinon_01
-  rotate: false
-  xy: 2, 93
-  size: 527, 760
-  orig: 527, 760
-  offset: 0, 0
-  index: -1
+bounds:2,10,1239,1789

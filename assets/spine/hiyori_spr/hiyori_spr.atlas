@@ -1,181 +1,79 @@
-
 hiyori_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 2, 246
-  size: 55, 56
-  orig: 55, 56
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
 00_defualt
-  rotate: false
-  xy: 2, 246
-  size: 55, 56
-  orig: 55, 56
-  offset: 0, 0
-  index: -1
+bounds:566,434,127,131
+01_normal
+bounds:566,434,127,131
 02_respond
-  rotate: false
-  xy: 2, 304
-  size: 55, 55
-  orig: 55, 55
-  offset: 0, 0
-  index: -1
+bounds:435,436,129,129
 03_smile
-  rotate: false
-  xy: 2, 419
-  size: 61, 58
-  orig: 61, 58
-  offset: 0, 0
-  index: -1
+bounds:705,1618,141,135
 04_embarassed
-  rotate: false
-  xy: 527, 769
-  size: 58, 57
-  orig: 58, 57
-  offset: 0, 0
-  index: -1
+bounds:2,790,135,133
 04_paleshadow
-  rotate: false
-  xy: 588, 846
-  size: 44, 71
-  orig: 47, 73
-  offset: 1, 1
-  index: -1
+bounds:1933,895,106,165
+offsets:2,2,110,169
 04_sweat
-  rotate: false
-  xy: 2, 479
-  size: 52, 70
-  orig: 52, 70
-  offset: 0, 0
-  index: -1
+bounds:2,925,116,158
+offsets:2,2,120,162
 05_serious
-  rotate: false
-  xy: 587, 771
-  size: 57, 56
-  orig: 57, 56
-  offset: 0, 0
-  index: -1
+bounds:168,435,132,130
 06_depressed
-  rotate: false
-  xy: 520, 891
-  size: 63, 57
-  orig: 63, 57
-  offset: 0, 0
-  index: -1
+bounds:1884,1062,146,133
 06_flush
-  rotate: false
-  xy: 551, 976
-  size: 70, 46
-  orig: 72, 48
-  offset: 1, 1
-  index: -1
+bounds:2,457,164,108
+offsets:2,2,168,112
 07
-  rotate: false
-  xy: 2, 189
-  size: 55, 56
-  orig: 55, 56
-  offset: 0, 0
-  index: -1
+bounds:302,304,127,130
 08
-  rotate: false
-  xy: 2, 362
-  size: 56, 55
-  orig: 56, 55
-  offset: 0, 0
-  index: -1
+bounds:302,436,131,129
 08_flush
-  rotate: false
-  xy: 474, 950
-  size: 75, 49
-  orig: 77, 51
-  offset: 1, 1
-  index: -1
+bounds:1844,1197,175,114
+offsets:2,2,179,118
 09
-  rotate: false
-  xy: 584, 919
-  size: 57, 56
-  orig: 57, 56
-  offset: 0, 0
-  index: -1
+bounds:2,658,133,130
 10
-  rotate: false
-  xy: 316, 839
-  size: 59, 64
-  orig: 59, 64
-  offset: 0, 0
-  index: -1
+bounds:849,1611,138,149
 10_flush
-  rotate: false
-  xy: 511, 828
-  size: 75, 49
-  orig: 77, 51
-  offset: 1, 1
-  index: -1
+bounds:1871,1313,175,114
+offsets:2,2,179,118
 10_sweat
-  rotate: false
-  xy: 2, 926
-  size: 20, 6
-  orig: 21, 9
-  offset: 1, 0
-  index: -1
+bounds:34,1943,45,17
+offsets:2,2,49,21
 11
-  rotate: false
-  xy: 2, 89
-  size: 56, 39
-  orig: 58, 41
-  offset: 1, 1
-  index: -1
+bounds:1692,1871,129,89
+offsets:3,3,135,95
 11_flush
-  rotate: false
-  xy: 2, 1010
-  size: 13, 12
-  orig: 15, 14
-  offset: 1, 1
-  index: -1
+bounds:2,1933,30,27
+offsets:3,3,36,33
 11_tear
-  rotate: false
-  xy: 455, 880
-  size: 62, 69
-  orig: 62, 69
-  offset: 0, 0
-  index: -1
+bounds:1828,1800,145,160
 eyeclose
-  rotate: false
-  xy: 2, 131
-  size: 55, 56
-  orig: 55, 56
-  offset: 0, 0
-  index: -1
+bounds:2,325,127,130
 fronthair
-  rotate: false
-  xy: 2, 934
-  size: 159, 89
-  orig: 184, 123
-  offset: 0, 0
-  index: -1
+bounds:692,1754,368,206
+offsets:0,0,428,285
 halo
-  rotate: false
-  xy: 317, 906
-  size: 156, 112
-  orig: 157, 112
-  offset: 0, 0
-  index: -1
-hiyor2
-  rotate: false
-  xy: 2, 398
-  size: 706, 625
-  orig: 836, 1072
-  offset: 130, 0
-  index: -1
+bounds:1684,1398,362,258
+offsets:1,1,364,260
 hiyori
-  rotate: 180
-  xy: 283, 3
-  size: 701, 516
-  orig: 836, 1072
-  offset: 0, 556
-  index: -1
+bounds:1289,377,757,942
+offsets:440,1377,1944,2492
+rotate:180
+hiyori2
+bounds:698,2,687,910
+offsets:0,1582,1944,2492
+hiyori3
+bounds:159,566,655,1394
+offsets:491,0,1944,2492
+hiyori4
+bounds:2,844,276,1116
+offsets:309,220,1944,2492
+hiyori5
+bounds:720,582,865,1378
+offsets:1079,457,1944,2492
+hiyori6
+bounds:1165,1584,376,824
+offsets:1023,237,1944,2492
+rotate:90

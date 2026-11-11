@@ -1,69 +1,77 @@
 moe_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.6
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
 00_default
-	bounds: 62, 892, 130, 91
-	rotate: 90
+bounds:1023,197,270,190
 01_normal
-	bounds: 62, 892, 130, 91
-	rotate: 90
+bounds:1023,197,270,190
 02_respond
-	bounds: 557, 214, 130, 91
+bounds:3,222,270,190
 03_smile
-	bounds: 265, 268, 124, 97
+bounds:1243,1329,259,203
 04_embarassed
-	bounds: 133, 178, 130, 91
+bounds:547,125,270,190
+rotate:180
 05_serious
-	bounds: 2, 715, 131, 98
+bounds:968,1327,273,205
 06_depressed
-	bounds: 391, 217, 130, 91
-	rotate: 90
+bounds:1762,142,270,190
 07
-	bounds: 272, 367, 130, 96
+bounds:2,1325,270,200
+rotate:90
 08
-	bounds: 2, 275, 130, 95
+bounds:1489,283,270,199
 09
-	bounds: 2, 372, 137, 93
+bounds:1761,334,285,194
 10
-	bounds: 777, 669, 137, 93
+bounds:2,414,285,194
 11
-	bounds: 689, 147, 130, 91
-	rotate: 180
+bounds:1490,92,270,190
 12
-	bounds: 2, 178, 130, 91
+bounds:1297,128,270,190
+rotate:90
 13
-	bounds: 881, 130, 128, 91
+bounds:2,30,266,190
 14
-	bounds: 133, 271, 130, 95
+bounds:822,308,270,199
+rotate:90
 15
-	bounds: 609, 758, 131, 98
+bounds:1773,1410,273,205
 16
-	bounds: 768, 764, 131, 98
+bounds:957,1120,273,205
+rotate:180
 17
-	bounds: 140, 368, 130, 96
+bounds:2,1597,270,200
+rotate:90
 18
-	bounds: 915, 732, 130, 91
-	rotate: 90
+bounds:275,168,270,190
 eyeclose
-	bounds: 265, 138, 128, 91
-	rotate: 90
+bounds:819,40,266,190
+rotate:90
 glasses
-	bounds: 358, 130, 127, 86
+bounds:1011,22,259,173
+offsets:3,3,265,179
 hair
-	bounds: 487, 139, 132, 73
+bounds:1893,836,275,153
+rotate:90
 halo_1
-	bounds: 768, 864, 168, 158
+bounds:1259,1544,344,323
+offsets:3,3,350,329
 halo_2
-	bounds: 313, 940, 85, 82
+bounds:323,2,172,164
+offsets:3,3,178,170
 halo_light_01
-	bounds: 593, 858, 173, 164
+bounds:903,1534,354,333
+offsets:3,4,361,341
 halo_light_02
-	bounds: 915, 642, 92, 89
+bounds:1861,1682,185,179
+offsets:4,3,193,186
+rotate:90
 moe
-	bounds: 478, 205, 486, 544
-	offsets: 0, 529, 724, 1073
-	rotate: 90
-moe_2
-	bounds: 2, 464, 648, 558
-	offsets: 76, 0, 724, 1073
+bounds:2,316,979,1551
+offsets:0,685,1508,2236
+moe2
+bounds:912,388,1341,1134
+offsets:167,0,1508,2236
+rotate:90

@@ -1,97 +1,42 @@
-
 maki_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 00_default
-  rotate: true
-  xy: 775, 351
-  size: 99, 86
-  orig: 99, 86
-  offset: 0, 0
-  index: -1
+bounds:1702,1028,269,234
 01_normal
-  rotate: true
-  xy: 775, 654
-  size: 99, 86
-  orig: 99, 86
-  offset: 0, 0
-  index: -1
+bounds:1702,1272,269,234
 02_respond
-  rotate: true
-  xy: 775, 755
-  size: 100, 88
-  orig: 100, 88
-  offset: 0, 0
-  index: -1
+bounds:1648,1760,270,239
 03_smile
-  rotate: true
-  xy: 775, 553
-  size: 99, 86
-  orig: 99, 86
-  offset: 0, 0
-  index: -1
+bounds:1702,1516,269,234
 04_embarassed
-  rotate: true
-  xy: 825, 252
-  size: 97, 84
-  orig: 97, 84
-  offset: 0, 0
-  index: -1
+bounds:1309,679,263,227
 05_depressed
-  rotate: true
-  xy: 876, 69
-  size: 96, 76
-  orig: 96, 76
-  offset: 0, 0
-  index: -1
+bounds:569,143,261,207
 06_serious
-  rotate: false
-  xy: 825, 167
-  size: 96, 83
-  orig: 96, 83
-  offset: 0, 0
-  index: -1
+bounds:984,1775,261,224
 07
-  rotate: true
-  xy: 775, 452
-  size: 99, 86
-  orig: 99, 86
-  offset: 0, 0
-  index: -1
+bounds:289,1626,269,234
 eyeclose
-  rotate: false
-  xy: 775, 21
-  size: 99, 86
-  orig: 99, 86
-  offset: 0, 0
-  index: -1
+bounds:10,1626,269,234
 fronthair
-  rotate: true
-  xy: 775, 857
-  size: 142, 112
-  orig: 142, 112
-  offset: 0, 0
-  index: -1
+bounds:1258,1701,380,298
+offsets:3,3,385,304
 halo1
-  rotate: true
-  xy: 775, 109
-  size: 240, 48
-  orig: 240, 48
-  offset: 0, 0
-  index: -1
+bounds:10,1870,649,129
+offsets:1,1,651,131
 halo2
-  rotate: false
-  xy: 876, 21
-  size: 62, 46
-  orig: 62, 46
-  offset: 0, 0
-  index: -1
+bounds:568,1600,167,123
+offsets:1,1,169,125
 maki
-  rotate: false
-  xy: 2, 2
-  size: 771, 997
-  orig: 771, 997
-  offset: 0, 0
-  index: -1
+bounds:165,182,1012,1135
+offsets:978,1565,2088,2700
+rotate:270
+maki2
+bounds:96,883,1116,1597
+offsets:972,0,2088,2700
+rotate:270
+maki3
+bounds:991,10,1047,849
+offsets:0,849,2088,2700

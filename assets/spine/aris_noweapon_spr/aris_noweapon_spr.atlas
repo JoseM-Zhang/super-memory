@@ -1,66 +1,66 @@
 aris_noweapon_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.55
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
 00_default
-	bounds: 258, 163, 122, 90
+bounds:512,179,265,197
 01_normal
-	bounds: 134, 162, 122, 91
+bounds:1444,118,265,192
+offsets:0,6,265,198
 02_respond
-	bounds: 630, 165, 122, 91
+bounds:1180,157,265,198
 03_smile
-	bounds: 138, 373, 122, 98
-	rotate: 90
+bounds:892,251,265,214
 04_embarassed
-	bounds: 259, 256, 122, 97
+bounds:649,331,265,212
 05_serious
-	bounds: 850, 188, 122, 91
+bounds:194,215,265,198
 06_depressed
-	bounds: 382, 153, 122, 89
+bounds:2,130,265,194
+rotate:90
 07
-	bounds: 383, 254, 119, 99
+bounds:59,385,259,216
 08
-	bounds: 138, 255, 119, 100
+bounds:1115,346,259,218
 09
-	bounds: 2, 158, 120, 91
+bounds:1093,1799,262,198
 10
-	bounds: 850, 281, 119, 101
+bounds:388,330,259,220
 11
-	bounds: 2, 251, 130, 90
+bounds:2,1800,283,197
 12
-	bounds: 714, 258, 124, 134
-	rotate: 90
+bounds:2,819,271,293
 13
-	bounds: 754, 138, 118, 85
-	rotate: 90
+bounds:321,45,257,186
+rotate:180
 14
-	bounds: 507, 938, 124, 84
+bounds:1773,1215,271,184
+rotate:180
 15
-	bounds: 2, 938, 124, 84
+bounds:748,105,271,184
 16
-	bounds: 504, 244, 124, 90
+bounds:1711,114,271,196
 17
-	bounds: 588, 336, 124, 134
+bounds:228,710,271,293
 18
-	bounds: 2, 343, 124, 134
-	rotate: 90
+bounds:266,462,271,293
 19
-	bounds: 2, 469, 124, 136
+bounds:14,553,271,298
 Hair_Cover_02
-	bounds: 903, 105, 119, 102
-	offsets: 2, 3, 124, 108
-Halo
-	bounds: 2, 605, 151, 144
-	offsets: 2, 0, 155, 144
+bounds:12,2,259,222
+offsets:5,7,270,235
 Halo_Blur
-	bounds: 810, 869, 161, 153
-	offsets: 1, 0, 164, 153
+bounds:1695,1398,351,335
+offsets:2,0,359,335
 aris
-	bounds: 2, 354, 808, 668
-	offsets: 0, 0, 808, 1108
+bounds:2,543,1758,1454
+offsets:5,4,1763,2418
 aris_1
-	bounds: 661, 384, 361, 454
-	offsets: 255, 654, 808, 1108
-	rotate: 180
+bounds:1259,311,787,991
+offsets:556,1427,1763,2418
+rotate:180
 eyeclose
-	bounds: 506, 151, 119, 91
+bounds:1655,1799,259,198
+halo
+bounds:2,1102,327,306
+offsets:5,7,337,313

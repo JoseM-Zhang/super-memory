@@ -1,13 +1,6 @@
-
 shibasekimaster_spr.png
-size: 512,512
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,2048
+filter:Linear,Linear
+scale:1.1
 shibasekimaster
-  rotate: false
-  xy: 2, 2
-  size: 322, 508
-  orig: 322, 508
-  offset: 0, 0
-  index: -1
+bounds:2,2,983,1551

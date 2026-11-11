@@ -1,90 +1,39 @@
-
 saya_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
 00_Default
-  rotate: false
-  xy: 290, 17
-  size: 102, 82
-  orig: 102, 82
-  offset: 0, 0
-  index: -1
+bounds:1726,1741,254,204
+rotate:90
 01_nomal
-  rotate: false
-  xy: 591, 22
-  size: 102, 77
-  orig: 102, 77
-  offset: 0, 0
-  index: -1
+bounds:1713,1229,254,193
+rotate:90
 02_respond
-  rotate: true
-  xy: 628, 719
-  size: 95, 77
-  orig: 95, 77
-  offset: 0, 0
-  index: -1
+bounds:1804,991,236,191
+rotate:90
 03_smile
-  rotate: false
-  xy: 394, 18
-  size: 91, 81
-  orig: 91, 81
-  offset: 0, 0
-  index: -1
+bounds:1576,1026,226,201
 04_embarrass
-  rotate: true
-  xy: 628, 609
-  size: 108, 74
-  orig: 108, 74
-  offset: 0, 0
-  index: -1
+bounds:22,1271,269,184
+rotate:90
 05_serious
-  rotate: false
-  xy: 487, 19
-  size: 102, 80
-  orig: 102, 80
-  offset: 0, 0
-  index: -1
+bounds:1726,1485,254,199
+rotate:90
 06_depressed
-  rotate: true
-  xy: 628, 509
-  size: 98, 74
-  orig: 98, 74
-  offset: 0, 0
-  index: -1
+bounds:1326,982,244,185
 07
-  rotate: true
-  xy: 628, 918
-  size: 102, 77
-  orig: 102, 77
-  offset: 0, 0
-  index: -1
+bounds:1320,1169,254,191
 eyeclose
-  rotate: true
-  xy: 628, 816
-  size: 100, 77
-  orig: 100, 77
-  offset: 0, 0
-  index: -1
+bounds:2,1076,249,193
 halo
-  rotate: false
-  xy: 2, 2
-  size: 129, 97
-  orig: 131, 99
-  offset: 1, 1
-  index: -1
+bounds:1389,1362,322,242
+offsets:2,2,326,246
 rat
-  rotate: true
-  xy: 133, 4
-  size: 95, 155
-  orig: 97, 157
-  offset: 1, 1
-  index: -1
+bounds:1487,1606,237,389
+offsets:2,2,241,393
 saya
-  rotate: false
-  xy: 2, 101
-  size: 624, 919
-  orig: 626, 921
-  offset: 1, 1
-  index: -1
+bounds:2,805,1484,1190
+offsets:22,1113,1564,2303
+saya2
+bounds:124,2,1564,1143
+offsets:0,0,1564,2303

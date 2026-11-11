@@ -1,33 +1,40 @@
 hinata_spr.png
-	size: 2048, 2048
-	filter: Linear, Linear
+size:2048,2048
+filter:Linear,Linear
+scale:1.15
 00_default
-	bounds: 1791, 1488, 222, 179
+bounds:1765,1322,255,206
+rotate:90
 01_normal
-	bounds: 1791, 1669, 231, 184
+bounds:1498,1834,266,212
 02_respond
-	bounds: 1791, 1855, 231, 191
+bounds:1681,2,266,220
+rotate:90
 03_smile
-	bounds: 1791, 1308, 219, 178
+bounds:652,60,252,205
+rotate:90
 04_embarrassed
-	bounds: 2, 1175, 222, 164
+bounds:1765,1065,255,189
+rotate:90
 05_serious
-	bounds: 1791, 1145, 219, 161
+bounds:1765,811,252,185
+rotate:90
 06_depressed
-	bounds: 1303, 1887, 197, 159
+bounds:791,547,227,183
 eyeclose
-	bounds: 1251, 1504, 220, 184
+bounds:1765,1579,253,212
+rotate:90
 halo
-	bounds: 1710, 526, 558, 336
-	offsets: 0, 0, 558, 337
-	rotate: 90
+bounds:257,314,642,387
+offsets:0,0,642,388
 hinata
-	bounds: 2, 870, 1300, 1176
-	offsets: 280, 1172, 1580, 2348
+bounds:2,694,1495,1352
+offsets:322,1348,1817,2700
 hinata_1
-	bounds: 1150, 507, 1539, 640
-	offsets: 28, 549, 1580, 2348
-	rotate: 270
+bounds:1028,60,1769,736
+offsets:32,631,1817,2700
+rotate:270
 hinata_2
-	bounds: 20, 600, 1024, 565
-	offsets: 0, 0, 1580, 2348
+bounds:2,105,1178,649
+offsets:0,0,1817,2700
+rotate:90

@@ -1,13 +1,9 @@
-
 peroro_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+peroro
+bounds:2,723,2009,1220
+offsets:0,848,2009,2068
 peroro2
-  rotate: false
-  xy: 2, 3
-  size: 984, 1013
-  orig: 984, 1013
-  offset: 0, 0
-  index: -1
+bounds:2,2,1537,886
+offsets:255,1,2009,2068

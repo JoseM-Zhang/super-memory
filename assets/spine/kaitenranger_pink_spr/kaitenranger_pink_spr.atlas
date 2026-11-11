@@ -1,20 +1,9 @@
-
 kaitenranger_pink_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.05
 halo
-  rotate: false
-  xy: 2, 942
-  size: 214, 72
-  orig: 214, 72
-  offset: 0, 0
-  index: -1
+bounds:1563,1554,416,140
+rotate:90
 kaitenranger_pink
-  rotate: true
-  xy: 2, 138
-  size: 802, 1012
-  orig: 802, 1012
-  offset: 0, 0
-  index: -1
+bounds:2,2,1559,1968

@@ -1,34 +1,49 @@
 azusa_spr.png
-	size: 2048, 2048
-	filter: Linear, Linear
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
 00_default
-	bounds: 2, 1320, 209, 148
+bounds:1795,797,251,178
 01_normal
-	bounds: 2, 1320, 209, 148
+bounds:1795,797,251,178
 02_respond
-	bounds: 1472, 1373, 209, 151
+bounds:450,883,251,181
 03_smile
-	bounds: 2, 1470, 210, 152
+bounds:1651,1841,252,182
 04_embarrass
-	bounds: 1450, 1231, 209, 140
+bounds:400,1186,251,168
 05_serious
-	bounds: 1683, 1314, 208, 146
+bounds:2,290,250,175
 06_embarrassed
-	bounds: 2, 1184, 207, 134
+bounds:125,467,248,152
+offsets:0,0,248,161
 07_embarrass 2
-	bounds: 1661, 1174, 194, 138
+bounds:275,310,233,166
 08_smile 2
-	bounds: 214, 1336, 198, 157
+bounds:1168,1009,238,188
 Character Halo
-	bounds: 1556, 1727, 330, 319
+bounds:2,1045,396,383
 HairCover
-	bounds: 1043, 1128, 219, 97
+bounds:1408,946,263,116
 azusa_00
-	bounds: 317, 168, 1729, 1257
+bounds:340,151,1706,764
+offsets:318,744,2075,1508
+azusa_00_2
+bounds:2,386,776,631
+offsets:0,877,2075,1508
+rotate:90
+azusa_00_3
+bounds:1730,977,316,768
+offsets:1088,0,2075,1508
+azusa_00_4
+bounds:1214,2,435,832
+offsets:1640,649,2075,1508
+rotate:90
 azusa_01
-	bounds: 2, 1075, 1552, 971
+bounds:2,858,1832,1165
+offsets:30,0,1862,1165
 eyeclose
-	bounds: 213, 1186, 197, 148
+bounds:409,703,236,178
 gas mask
-	bounds: 1675, 1462, 290, 271
-	offsets: 14, 0, 304, 271
+bounds:1408,1064,348,325
+offsets:17,0,365,325

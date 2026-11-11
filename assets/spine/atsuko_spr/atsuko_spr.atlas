@@ -1,111 +1,49 @@
-
 atsuko_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.14
 01_normal
-  rotate: false
-  xy: 419, 584
-  size: 89, 77
-  orig: 89, 77
-  offset: 0, 0
-  index: -1
+bounds:983,1347,211,184
 02_respond
-  rotate: false
-  xy: 104, 785
-  size: 89, 78
-  orig: 89, 78
-  offset: 0, 0
-  index: -1
+bounds:883,1186,211,185
 03_smile
-  rotate: false
-  xy: 336, 931
-  size: 95, 92
-  orig: 95, 92
-  offset: 0, 0
-  index: -1
+bounds:1121,1486,226,218
 04_embrass
-  rotate: false
-  xy: 510, 638
-  size: 89, 76
-  orig: 89, 76
-  offset: 0, 0
-  index: -1
+bounds:2,1154,212,166
+offsets:0,0,212,180
 05_serious
-  rotate: false
-  xy: 581, 771
-  size: 77, 72
-  orig: 77, 72
-  offset: 0, 0
-  index: -1
+bounds:1092,1158,184,170
 06_shout
-  rotate: false
-  xy: 579, 845
-  size: 81, 76
-  orig: 81, 76
-  offset: 0, 0
-  index: -1
+bounds:2,971,192,181
 07
-  rotate: false
-  xy: 649, 960
-  size: 82, 63
-  orig: 82, 63
-  offset: 0, 0
-  index: -1
+bounds:1568,1858,195,149
 atsuko_0
-  rotate: 180
-  xy: 454, 88
-  size: 568, 576
-  orig: 826, 1176
-  offset: 16, 600
-  index: -1
+bounds:2,648,1347,1359
+offsets:40,1435,1962,2794
 atsuko_1
-  rotate: false
-  xy: 2, 362
-  size: 826, 661
-  orig: 826, 1176
-  offset: 0, 0
-  index: -1
+bounds:951,505,865,1502
+offsets:0,0,1962,2794
+atsuko_2
+bounds:843,85,629,419
+offsets:691,625,1962,2794
+atsuko_3
+bounds:1369,2,677,976
+offsets:1285,317,1962,2794
+atsuko_4
+bounds:439,332,606,414
+offsets:781,1079,1962,2794
 default light
-  rotate: false
-  xy: 581, 718
-  size: 83, 52
-  orig: 83, 52
-  offset: 0, 0
-  index: -1
+bounds:1196,1361,197,123
 eyeclose
-  rotate: false
-  xy: 490, 765
-  size: 89, 77
-  orig: 89, 77
-  offset: 0, 0
-  index: -1
+bounds:1818,1514,211,184
 halo
-  rotate: false
-  xy: 334, 753
-  size: 313, 227
-  orig: 313, 227
-  offset: 0, 0
-  index: -1
+bounds:2,11,744,538
+rotate:270
 object_fronthair
-  rotate: false
-  xy: 2, 754
-  size: 101, 130
-  orig: 101, 130
-  offset: 0, 0
-  index: -1
+bounds:1781,1699,239,308
 oo_default
-  rotate: false
-  xy: 2, 885
-  size: 124, 139
-  orig: 141, 155
-  offset: 8, 9
-  index: -1
+bounds:1754,1129,292,328
+offsets:20,22,334,367
 oo_default_0
-  rotate: false
-  xy: 2, 885
-  size: 124, 139
-  orig: 141, 155
-  offset: 8, 9
-  index: -1
+bounds:1754,1129,292,328
+offsets:20,22,334,367

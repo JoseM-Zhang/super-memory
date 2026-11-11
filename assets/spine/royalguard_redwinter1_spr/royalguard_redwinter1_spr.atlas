@@ -1,27 +1,10 @@
-
 royalguard_redwinter1_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.45
 halo
-  rotate: true
-  xy: 351, 3
-  size: 162, 184
-  orig: 162, 184
-  offset: 0, 0
-  index: -1
+bounds:1518,1439,468,534
 royalguard_redwinter1_1
-  rotate: false
-  xy: 2, 85
-  size: 347, 680
-  orig: 347, 680
-  offset: 0, 0
-  index: -1
+bounds:2,2,1006,1971
 royalguard_redwinter1_2
-  rotate: false
-  xy: 351, 166
-  size: 228, 599
-  orig: 228, 599
-  offset: 0, 0
-  index: -1
+bounds:1010,237,660,1736

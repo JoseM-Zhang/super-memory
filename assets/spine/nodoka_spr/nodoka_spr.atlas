@@ -1,90 +1,38 @@
-
 nodoka_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.15
 01_nomal
-  rotate: false
-  xy: 609, 585
-  size: 95, 69
-  orig: 95, 69
-  offset: 0, 0
-  index: -1
+bounds:1802,95,244,176
 02_respond
-  rotate: false
-  xy: 2, 752
-  size: 95, 77
-  orig: 95, 77
-  offset: 0, 0
-  index: -1
+bounds:2,218,244,196
 03_smile
-  rotate: false
-  xy: 2, 911
-  size: 95, 80
-  orig: 95, 80
-  offset: 0, 0
-  index: -1
+bounds:1320,565,244,205
 04_embarrass
-  rotate: false
-  xy: 2, 676
-  size: 94, 75
-  orig: 94, 75
-  offset: 0, 0
-  index: -1
+bounds:248,207,239,191
 05_serious
-  rotate: true
-  xy: 99, 899
-  size: 92, 67
-  orig: 92, 67
-  offset: 0, 0
-  index: -1
+bounds:2,46,236,170
 06_depressed
-  rotate: true
-  xy: 99, 713
-  size: 93, 65
-  orig: 93, 65
-  offset: 0, 0
-  index: -1
+bounds:240,39,237,166
 EX_smile2
-  rotate: false
-  xy: 2, 830
-  size: 95, 79
-  orig: 95, 79
-  offset: 0, 0
-  index: -1
+bounds:2,416,244,202
 Halo
-  rotate: false
-  xy: 454, 663
-  size: 182, 91
-  orig: 182, 91
-  offset: 0, 0
-  index: -1
+bounds:305,400,466,233
 Halo_Blur
-  rotate: false
-  xy: 447, 894
-  size: 188, 98
-  orig: 188, 98
-  offset: 0, 0
-  index: -1
+bounds:1566,663,480,250
 default
-  rotate: false
-  xy: 568, 757
-  size: 95, 69
-  orig: 95, 69
-  offset: 0, 0
-  index: -1
+bounds:489,222,244,176
 eyeclose
-  rotate: false
-  xy: 469, 823
-  size: 97, 69
-  orig: 97, 69
-  offset: 0, 0
-  index: -1
+bounds:489,49,241,171
+offsets:3,3,247,177
 nodoka
-  rotate: false
-  xy: 2, 3
-  size: 703, 988
-  orig: 703, 988
-  offset: 0, 0
-  index: -1
+bounds:2,468,1394,1559
+offsets:402,966,1796,2525
+nodoka_2
+bounds:1317,914,729,1003
+offsets:458,0,1796,2525
+rotate:180
+nodoka_3
+bounds:785,2,643,1171
+offsets:0,825,1796,2525
+rotate:90

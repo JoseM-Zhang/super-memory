@@ -1,20 +1,14 @@
-
 NP0114_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.22
 NP0114
-  rotate: 180
-  xy: 566, 3
-  size: 456, 518
-  orig: 716, 1223
-  offset: 186, 705
-  index: -1
+bounds:2,95,1096,1923
+offsets:461,1184,1819,3107
 NP01145
-  rotate: false
-  xy: 2, 81
-  size: 716, 744
-  orig: 716, 1223
-  offset: 0, 0
-  index: -1
+bounds:862,2,822,1184
+offsets:0,44,1819,3107
+rotate:270
+NP01146
+bounds:935,790,959,1228
+offsets:860,0,1819,3107

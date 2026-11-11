@@ -1,13 +1,6 @@
-
 engineer_animal3_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,2048
+filter:Linear,Linear
+scale:1.1
 engineer_animal3
-  rotate: false
-  xy: 2, 2
-  size: 515, 782
-  orig: 515, 782
-  offset: 0, 0
-  index: -1
+bounds:2,2,945,1433

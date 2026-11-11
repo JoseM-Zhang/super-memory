@@ -1,153 +1,61 @@
-
 ayane_robber_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: true
-  xy: 359, 163
-  size: 99, 72
-  orig: 99, 72
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
+scale:1.23
 00_default
-  rotate: true
-  xy: 359, 163
-  size: 99, 72
-  orig: 99, 72
-  offset: 0, 0
-  index: -1
+bounds:1250,580,304,221
+01_normal
+bounds:1250,580,304,221
 02_respond
-  rotate: false
-  xy: 259, 385
-  size: 99, 78
-  orig: 99, 78
-  offset: 0, 0
-  index: -1
+bounds:1574,558,304,241
 03_smile
-  rotate: true
-  xy: 376, 65
-  size: 96, 73
-  orig: 96, 73
-  offset: 0, 0
-  index: -1
+bounds:1323,72,296,224
 04_embarrassed
-  rotate: true
-  xy: 359, 265
-  size: 99, 74
-  orig: 99, 74
-  offset: 0, 0
-  index: -1
+bounds:1742,234,304,228
+rotate:90
 05_serious
-  rotate: true
-  xy: 390, 920
-  size: 99, 70
-  orig: 99, 70
-  offset: 0, 0
-  index: -1
+bounds:1807,1702,304,214
+rotate:90
 06_shout
-  rotate: false
-  xy: 259, 148
-  size: 99, 75
-  orig: 99, 75
-  offset: 0, 0
-  index: -1
+bounds:794,135,304,230
+rotate:90
 07_
-  rotate: false
-  xy: 259, 3
-  size: 124, 91
-  orig: 184, 124
-  offset: 27, 17
-  index: -1
+bounds:20,1481,380,277
+offsets:83,54,567,380
+rotate:90
 08_
-  rotate: true
-  xy: 385, 539
-  size: 96, 72
-  orig: 96, 72
-  offset: 0, 0
-  index: -1
+bounds:611,696,296,223
+rotate:90
 09_
-  rotate: true
-  xy: 349, 737
-  size: 99, 74
-  orig: 99, 74
-  offset: 0, 0
-  index: -1
+bounds:38,1158,304,229
+rotate:90
 10_
-  rotate: false
-  xy: 259, 465
-  size: 116, 95
-  orig: 184, 124
-  offset: 33, 10
-  index: -1
+bounds:1722,785,355,291
+offsets:102,30,567,380
+rotate:270
 11_
-  rotate: false
-  xy: 259, 561
-  size: 125, 105
-  orig: 184, 124
-  offset: 24, 0
-  index: -1
+bounds:1326,818,383,322
+offsets:74,0,567,380
 12_
-  rotate: false
-  xy: 259, 305
-  size: 99, 78
-  orig: 99, 78
-  offset: 0, 0
-  index: -1
+bounds:1098,318,304,241
 13_
-  rotate: false
-  xy: 259, 224
-  size: 99, 78
-  orig: 99, 78
-  offset: 0, 0
-  index: -1
+bounds:774,459,304,241
 14_
-  rotate: false
-  xy: 376, 473
-  size: 98, 63
-  orig: 98, 63
-  offset: 0, 0
-  index: -1
+bounds:1639,20,301,194
 15_
-  rotate: true
-  xy: 359, 365
-  size: 99, 74
-  orig: 99, 74
-  offset: 0, 0
-  index: -1
+bounds:999,69,304,229
 ayane_mask
-  rotate: false
-  xy: 259, 837
-  size: 129, 181
-  orig: 129, 181
-  offset: 0, 0
-  index: -1
+bounds:1391,1449,396,557
+rotate:180
 ayane_robber
-  rotate: false
-  xy: 2, 2
-  size: 255, 1016
-  orig: 255, 1016
-  offset: 0, 0
-  index: -1
+bounds:617,697,784,1309
+offsets:0,1783,784,3123
+ayane_robber_2
+bounds:20,193,755,1813
+offsets:29,0,784,3123
 eyeclose
-  rotate: true
-  xy: 373, 637
-  size: 98, 72
-  orig: 98, 72
-  offset: 0, 0
-  index: -1
+bounds:1422,317,300,221
 glasses
-  rotate: true
-  xy: 425, 813
-  size: 105, 36
-  orig: 105, 36
-  offset: 0, 0
-  index: -1
+bounds:20,62,322,112
 halo
-  rotate: true
-  xy: 259, 667
-  size: 168, 88
-  orig: 168, 88
-  offset: 0, 0
-  index: -1
+bounds:1374,1160,518,269
